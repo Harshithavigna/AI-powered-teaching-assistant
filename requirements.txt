@@ -1,0 +1,12 @@
+sentence-transformers
+scikit-learn
+pandas
+numpy
+torch
+tqdm
+matplotlib
+seaborn
+fastapi
+uvicorn
+python-multipart
+jinja2
