@@ -1,0 +1,2001 @@
+query,intent,topic,difficulty
+Recap Natural Language Processing. in depth detail.,Revision,Natural Language Processing,Advanced
+Summary of Natural Language Processing. keep it simple.,Revision,Natural Language Processing,Beginner
+Practical application of Transformers? keep it simple.,Example,Transformers,Beginner
+Recap Gradient Descent. keep it simple.,Revision,Gradient Descent,Beginner
+Demonstrate RNN with an example.,Example,RNN,Intermediate
+Real world example of Neural Networks.,Example,Neural Networks,Intermediate
+Is Reinforcement Learning better than others?,Doubt clarification,Reinforcement Learning,Intermediate
+How does Neural Networks work?,Explanation,Neural Networks,Intermediate
+Review Backpropagation.,Revision,Backpropagation,Intermediate
+Why does RNN fail? keep it simple.,Doubt clarification,RNN,Beginner
+Recap RNN. in depth detail.,Revision,RNN,Advanced
+Code example for Gradient Descent.,Example,Gradient Descent,Intermediate
+Important concepts in Neural Networks.,Revision,Neural Networks,Intermediate
+Important concepts in Gradient Descent. keep it simple.,Revision,Gradient Descent,Beginner
+Confusion about Gradient Descent. in depth detail.,Doubt clarification,Gradient Descent,Advanced
+Review Gradient Descent. in depth detail.,Revision,Gradient Descent,Advanced
+Key points of Transformers.,Revision,Transformers,Intermediate
+How does Backpropagation work? in depth detail.,Explanation,Backpropagation,Advanced
+Tell me about Transformers. keep it simple.,Explanation,Transformers,Beginner
+Can you describe Natural Language Processing? in depth detail.,Explanation,Natural Language Processing,Advanced
+Recap RNN. in depth detail.,Revision,RNN,Advanced
+Explain different types of Natural Language Processing.,Explanation,Natural Language Processing,Intermediate
+Summary of Transformers.,Revision,Transformers,Intermediate
+Recap Reinforcement Learning. keep it simple.,Revision,Reinforcement Learning,Beginner
+Real world example of Reinforcement Learning. in depth detail.,Example,Reinforcement Learning,Advanced
+What is the difference between Natural Language Processing and other method? in depth detail.,Doubt clarification,Natural Language Processing,Advanced
+Why does Reinforcement Learning fail? keep it simple.,Doubt clarification,Reinforcement Learning,Beginner
+Is RNN better than others? keep it simple.,Doubt clarification,RNN,Beginner
+Clarify Optimization for me. keep it simple.,Doubt clarification,Optimization,Beginner
+Is Computer Vision better than others? keep it simple.,Doubt clarification,Computer Vision,Beginner
+Code example for Computer Vision. keep it simple.,Example,Computer Vision,Beginner
+Important concepts in Natural Language Processing.,Revision,Natural Language Processing,Intermediate
+What is Reinforcement Learning? in depth detail.,Explanation,Reinforcement Learning,Advanced
+What is Computer Vision? keep it simple.,Explanation,Computer Vision,Beginner
+Key points of Computer Vision.,Revision,Computer Vision,Intermediate
+I don't understand Natural Language Processing. keep it simple.,Explanation,Natural Language Processing,Beginner
+Clarify CNN for me.,Doubt clarification,CNN,Intermediate
+Review Reinforcement Learning. in depth detail.,Revision,Reinforcement Learning,Advanced
+Important concepts in Optimization.,Revision,Optimization,Intermediate
+Summary of Computer Vision.,Revision,Computer Vision,Intermediate
+Explain different types of Transformers. keep it simple.,Explanation,Transformers,Beginner
+Review Transformers.,Revision,Transformers,Intermediate
+Demonstrate Backpropagation with an example.,Example,Backpropagation,Intermediate
+Key points of Neural Networks.,Revision,Neural Networks,Intermediate
+Real world example of Natural Language Processing. in depth detail.,Example,Natural Language Processing,Advanced
+Tell me about Reinforcement Learning. keep it simple.,Explanation,Reinforcement Learning,Beginner
+Is Optimization better than others?,Doubt clarification,Optimization,Intermediate
+I am stuck on Transformers.,Doubt clarification,Transformers,Intermediate
+Revise Transformers quickly. in depth detail.,Revision,Transformers,Advanced
+Confusion about Neural Networks.,Doubt clarification,Neural Networks,Intermediate
+Key points of Gradient Descent.,Revision,Gradient Descent,Intermediate
+Revise Computer Vision quickly. keep it simple.,Revision,Computer Vision,Beginner
+Key points of Reinforcement Learning. keep it simple.,Revision,Reinforcement Learning,Beginner
+Show me a use case for RNN. in depth detail.,Example,RNN,Advanced
+Review Reinforcement Learning. in depth detail.,Revision,Reinforcement Learning,Advanced
+Practical application of Reinforcement Learning?,Example,Reinforcement Learning,Intermediate
+Real world example of Gradient Descent. in depth detail.,Example,Gradient Descent,Advanced
+Clarify Optimization for me.,Doubt clarification,Optimization,Intermediate
+Meaning of Natural Language Processing? keep it simple.,Explanation,Natural Language Processing,Beginner
+Key points of Natural Language Processing. in depth detail.,Revision,Natural Language Processing,Advanced
+Tell me about Backpropagation. keep it simple.,Explanation,Backpropagation,Beginner
+Review Computer Vision. in depth detail.,Revision,Computer Vision,Advanced
+Confusion about Transformers. in depth detail.,Doubt clarification,Transformers,Advanced
+Demonstrate RNN with an example. in depth detail.,Example,RNN,Advanced
+Code example for CNN.,Example,CNN,Intermediate
+Code example for Reinforcement Learning.,Example,Reinforcement Learning,Intermediate
+Summary of Transformers. in depth detail.,Revision,Transformers,Advanced
+Can you describe Optimization?,Explanation,Optimization,Intermediate
+Why does Gradient Descent fail? in depth detail.,Doubt clarification,Gradient Descent,Advanced
+I don't understand Gradient Descent.,Explanation,Gradient Descent,Intermediate
+Clarify Neural Networks for me. in depth detail.,Doubt clarification,Neural Networks,Advanced
+Is Backpropagation better than others? in depth detail.,Doubt clarification,Backpropagation,Advanced
+Important concepts in Backpropagation. in depth detail.,Revision,Backpropagation,Advanced
+Why do we use Computer Vision? in depth detail.,Doubt clarification,Computer Vision,Advanced
+What is the difference between Gradient Descent and other method? keep it simple.,Doubt clarification,Gradient Descent,Beginner
+Can you describe Transformers? in depth detail.,Explanation,Transformers,Advanced
+Define Neural Networks. keep it simple.,Explanation,Neural Networks,Beginner
+What is Neural Networks?,Explanation,Neural Networks,Intermediate
+Tell me about Optimization.,Explanation,Optimization,Intermediate
+Why does Computer Vision fail? keep it simple.,Doubt clarification,Computer Vision,Beginner
+Why does CNN fail? keep it simple.,Doubt clarification,CNN,Beginner
+Is Reinforcement Learning better than others?,Doubt clarification,Reinforcement Learning,Intermediate
+Summary of Natural Language Processing. keep it simple.,Revision,Natural Language Processing,Beginner
+Show me a use case for RNN. keep it simple.,Example,RNN,Beginner
+Define Neural Networks.,Explanation,Neural Networks,Intermediate
+I don't understand RNN.,Explanation,RNN,Intermediate
+Revise Neural Networks quickly. in depth detail.,Revision,Neural Networks,Advanced
+Important concepts in Gradient Descent. keep it simple.,Revision,Gradient Descent,Beginner
+I don't understand Computer Vision. in depth detail.,Explanation,Computer Vision,Advanced
+Define Transformers.,Explanation,Transformers,Intermediate
+Demonstrate Optimization with an example. in depth detail.,Example,Optimization,Advanced
+Define RNN. keep it simple.,Explanation,RNN,Beginner
+Why does Transformers fail? in depth detail.,Doubt clarification,Transformers,Advanced
+Explain different types of Natural Language Processing. keep it simple.,Explanation,Natural Language Processing,Beginner
+Give me an example of Computer Vision. keep it simple.,Example,Computer Vision,Beginner
+Why does Gradient Descent fail? keep it simple.,Doubt clarification,Gradient Descent,Beginner
+Revise Gradient Descent quickly. in depth detail.,Revision,Gradient Descent,Advanced
+Key points of Natural Language Processing. keep it simple.,Revision,Natural Language Processing,Beginner
+Review Natural Language Processing. in depth detail.,Revision,Natural Language Processing,Advanced
+Summary of Transformers. in depth detail.,Revision,Transformers,Advanced
+I don't understand Backpropagation. keep it simple.,Explanation,Backpropagation,Beginner
+How does CNN work?,Explanation,CNN,Intermediate
+Confusion about Natural Language Processing.,Doubt clarification,Natural Language Processing,Intermediate
+Review Reinforcement Learning.,Revision,Reinforcement Learning,Intermediate
+Why does Transformers fail?,Doubt clarification,Transformers,Intermediate
+Recap Computer Vision.,Revision,Computer Vision,Intermediate
+Review Backpropagation. keep it simple.,Revision,Backpropagation,Beginner
+Confusion about RNN. in depth detail.,Doubt clarification,RNN,Advanced
+How does CNN work? in depth detail.,Explanation,CNN,Advanced
+Demonstrate Gradient Descent with an example.,Example,Gradient Descent,Intermediate
+Real world example of Natural Language Processing. keep it simple.,Example,Natural Language Processing,Beginner
+Revise Backpropagation quickly. keep it simple.,Revision,Backpropagation,Beginner
+Define Gradient Descent. in depth detail.,Explanation,Gradient Descent,Advanced
+Meaning of Backpropagation? in depth detail.,Explanation,Backpropagation,Advanced
+Is CNN better than others?,Doubt clarification,CNN,Intermediate
+Define RNN.,Explanation,RNN,Intermediate
+Confusion about Natural Language Processing. in depth detail.,Doubt clarification,Natural Language Processing,Advanced
+Practical application of Natural Language Processing? in depth detail.,Example,Natural Language Processing,Advanced
+What is Backpropagation? in depth detail.,Explanation,Backpropagation,Advanced
+I am stuck on Backpropagation.,Doubt clarification,Backpropagation,Intermediate
+Summary of Backpropagation. keep it simple.,Revision,Backpropagation,Beginner
+Recap Gradient Descent. in depth detail.,Revision,Gradient Descent,Advanced
+Confusion about Reinforcement Learning. in depth detail.,Doubt clarification,Reinforcement Learning,Advanced
+Why do we use Computer Vision?,Doubt clarification,Computer Vision,Intermediate
+I don't understand Gradient Descent.,Explanation,Gradient Descent,Intermediate
+Practical application of Neural Networks?,Example,Neural Networks,Intermediate
+Show me a use case for Natural Language Processing.,Example,Natural Language Processing,Intermediate
+What is the difference between Backpropagation and other method? keep it simple.,Doubt clarification,Backpropagation,Beginner
+Demonstrate CNN with an example. keep it simple.,Example,CNN,Beginner
+Show me a use case for Transformers.,Example,Transformers,Intermediate
+Review Neural Networks. keep it simple.,Revision,Neural Networks,Beginner
+Practical application of CNN? keep it simple.,Example,CNN,Beginner
+Practical application of Natural Language Processing? in depth detail.,Example,Natural Language Processing,Advanced
+Review Computer Vision. keep it simple.,Revision,Computer Vision,Beginner
+Show me a use case for Computer Vision. in depth detail.,Example,Computer Vision,Advanced
+Tell me about Transformers.,Explanation,Transformers,Intermediate
+Can you describe Reinforcement Learning? in depth detail.,Explanation,Reinforcement Learning,Advanced
+Explain different types of RNN. in depth detail.,Explanation,RNN,Advanced
+Demonstrate Neural Networks with an example.,Example,Neural Networks,Intermediate
+Summary of CNN. keep it simple.,Revision,CNN,Beginner
+Practical application of CNN? keep it simple.,Example,CNN,Beginner
+Define Reinforcement Learning. in depth detail.,Explanation,Reinforcement Learning,Advanced
+Recap CNN. in depth detail.,Revision,CNN,Advanced
+Give me an example of Transformers.,Example,Transformers,Intermediate
+Show me a use case for Neural Networks. keep it simple.,Example,Neural Networks,Beginner
+Revise Gradient Descent quickly. keep it simple.,Revision,Gradient Descent,Beginner
+Define Gradient Descent. in depth detail.,Explanation,Gradient Descent,Advanced
+What is the difference between CNN and other method? in depth detail.,Doubt clarification,CNN,Advanced
+Confusion about Backpropagation.,Doubt clarification,Backpropagation,Intermediate
+Why do we use RNN? in depth detail.,Doubt clarification,RNN,Advanced
+Can you describe Optimization? in depth detail.,Explanation,Optimization,Advanced
+Can you describe Optimization? keep it simple.,Explanation,Optimization,Beginner
+Revise Backpropagation quickly. keep it simple.,Revision,Backpropagation,Beginner
+Important concepts in Gradient Descent.,Revision,Gradient Descent,Intermediate
+What is Natural Language Processing? in depth detail.,Explanation,Natural Language Processing,Advanced
+Code example for Natural Language Processing.,Example,Natural Language Processing,Intermediate
+What is the difference between Optimization and other method? keep it simple.,Doubt clarification,Optimization,Beginner
+Why does CNN fail?,Doubt clarification,CNN,Intermediate
+Real world example of CNN.,Example,CNN,Intermediate
+Demonstrate Computer Vision with an example. keep it simple.,Example,Computer Vision,Beginner
+What is Reinforcement Learning? keep it simple.,Explanation,Reinforcement Learning,Beginner
+What is the difference between Natural Language Processing and other method? in depth detail.,Doubt clarification,Natural Language Processing,Advanced
+Why does Transformers fail?,Doubt clarification,Transformers,Intermediate
+Show me a use case for Natural Language Processing.,Example,Natural Language Processing,Intermediate
+Can you describe RNN? in depth detail.,Explanation,RNN,Advanced
+Key points of Natural Language Processing. keep it simple.,Revision,Natural Language Processing,Beginner
+Why does Neural Networks fail? keep it simple.,Doubt clarification,Neural Networks,Beginner
+Summary of Transformers. in depth detail.,Revision,Transformers,Advanced
+What is the difference between Transformers and other method?,Doubt clarification,Transformers,Intermediate
+Confusion about Reinforcement Learning. keep it simple.,Doubt clarification,Reinforcement Learning,Beginner
+Recap Transformers. in depth detail.,Revision,Transformers,Advanced
+Tell me about Computer Vision. keep it simple.,Explanation,Computer Vision,Beginner
+Code example for Backpropagation.,Example,Backpropagation,Intermediate
+Summary of Computer Vision.,Revision,Computer Vision,Intermediate
+Code example for CNN. in depth detail.,Example,CNN,Advanced
+Important concepts in Transformers. keep it simple.,Revision,Transformers,Beginner
+Practical application of Reinforcement Learning? keep it simple.,Example,Reinforcement Learning,Beginner
+Why does Neural Networks fail? in depth detail.,Doubt clarification,Neural Networks,Advanced
+Key points of Reinforcement Learning.,Revision,Reinforcement Learning,Intermediate
+Review Transformers.,Revision,Transformers,Intermediate
+Give me an example of Computer Vision. in depth detail.,Example,Computer Vision,Advanced
+Practical application of Backpropagation? in depth detail.,Example,Backpropagation,Advanced
+Code example for Neural Networks. in depth detail.,Example,Neural Networks,Advanced
+Tell me about RNN. in depth detail.,Explanation,RNN,Advanced
+Revise Optimization quickly. in depth detail.,Revision,Optimization,Advanced
+Important concepts in CNN. in depth detail.,Revision,CNN,Advanced
+Recap Optimization. keep it simple.,Revision,Optimization,Beginner
+Real world example of Natural Language Processing. keep it simple.,Example,Natural Language Processing,Beginner
+Clarify Computer Vision for me. in depth detail.,Doubt clarification,Computer Vision,Advanced
+Show me a use case for Reinforcement Learning.,Example,Reinforcement Learning,Intermediate
+How does RNN work? keep it simple.,Explanation,RNN,Beginner
+What is the difference between Computer Vision and other method? keep it simple.,Doubt clarification,Computer Vision,Beginner
+Revise Computer Vision quickly. in depth detail.,Revision,Computer Vision,Advanced
+Code example for Optimization. in depth detail.,Example,Optimization,Advanced
+Demonstrate Neural Networks with an example. in depth detail.,Example,Neural Networks,Advanced
+What is the difference between CNN and other method?,Doubt clarification,CNN,Intermediate
+Demonstrate Neural Networks with an example. in depth detail.,Example,Neural Networks,Advanced
+Recap Backpropagation. keep it simple.,Revision,Backpropagation,Beginner
+Practical application of Backpropagation? keep it simple.,Example,Backpropagation,Beginner
+Can you describe Optimization?,Explanation,Optimization,Intermediate
+Why does Computer Vision fail?,Doubt clarification,Computer Vision,Intermediate
+Is Gradient Descent better than others?,Doubt clarification,Gradient Descent,Intermediate
+Real world example of Neural Networks. keep it simple.,Example,Neural Networks,Beginner
+Demonstrate CNN with an example. keep it simple.,Example,CNN,Beginner
+Give me an example of Gradient Descent. keep it simple.,Example,Gradient Descent,Beginner
+Revise Gradient Descent quickly. keep it simple.,Revision,Gradient Descent,Beginner
+Real world example of Optimization.,Example,Optimization,Intermediate
+I am stuck on Backpropagation. keep it simple.,Doubt clarification,Backpropagation,Beginner
+Is Transformers better than others?,Doubt clarification,Transformers,Intermediate
+What is Computer Vision? keep it simple.,Explanation,Computer Vision,Beginner
+Demonstrate Transformers with an example. in depth detail.,Example,Transformers,Advanced
+Recap RNN.,Revision,RNN,Intermediate
+Give me an example of Transformers. in depth detail.,Example,Transformers,Advanced
+Revise Reinforcement Learning quickly.,Revision,Reinforcement Learning,Intermediate
+Key points of Natural Language Processing. keep it simple.,Revision,Natural Language Processing,Beginner
+How does Backpropagation work? in depth detail.,Explanation,Backpropagation,Advanced
+Tell me about CNN.,Explanation,CNN,Intermediate
+Practical application of Reinforcement Learning? in depth detail.,Example,Reinforcement Learning,Advanced
+Practical application of Neural Networks?,Example,Neural Networks,Intermediate
+I am stuck on Reinforcement Learning. in depth detail.,Doubt clarification,Reinforcement Learning,Advanced
+Why does Neural Networks fail?,Doubt clarification,Neural Networks,Intermediate
+Demonstrate Computer Vision with an example. in depth detail.,Example,Computer Vision,Advanced
+Show me a use case for Transformers. keep it simple.,Example,Transformers,Beginner
+What is the difference between Gradient Descent and other method? keep it simple.,Doubt clarification,Gradient Descent,Beginner
+Demonstrate RNN with an example.,Example,RNN,Intermediate
+Recap Computer Vision.,Revision,Computer Vision,Intermediate
+Meaning of Natural Language Processing?,Explanation,Natural Language Processing,Intermediate
+Show me a use case for RNN. keep it simple.,Example,RNN,Beginner
+Meaning of RNN?,Explanation,RNN,Intermediate
+Why does RNN fail? in depth detail.,Doubt clarification,RNN,Advanced
+Why do we use Natural Language Processing? in depth detail.,Doubt clarification,Natural Language Processing,Advanced
+Show me a use case for Reinforcement Learning.,Example,Reinforcement Learning,Intermediate
+How does CNN work?,Explanation,CNN,Intermediate
+Summary of Reinforcement Learning. in depth detail.,Revision,Reinforcement Learning,Advanced
+Demonstrate RNN with an example. in depth detail.,Example,RNN,Advanced
+Meaning of RNN?,Explanation,RNN,Intermediate
+Explain different types of Reinforcement Learning. in depth detail.,Explanation,Reinforcement Learning,Advanced
+Real world example of Optimization. keep it simple.,Example,Optimization,Beginner
+Revise Transformers quickly. in depth detail.,Revision,Transformers,Advanced
+Clarify Optimization for me. keep it simple.,Doubt clarification,Optimization,Beginner
+I don't understand Reinforcement Learning. keep it simple.,Explanation,Reinforcement Learning,Beginner
+I am stuck on CNN. in depth detail.,Doubt clarification,CNN,Advanced
+Practical application of Optimization?,Example,Optimization,Intermediate
+Why do we use Natural Language Processing? keep it simple.,Doubt clarification,Natural Language Processing,Beginner
+Why do we use Transformers? keep it simple.,Doubt clarification,Transformers,Beginner
+Why does CNN fail? keep it simple.,Doubt clarification,CNN,Beginner
+Important concepts in Backpropagation.,Revision,Backpropagation,Intermediate
+Important concepts in Gradient Descent. in depth detail.,Revision,Gradient Descent,Advanced
+Tell me about Optimization. keep it simple.,Explanation,Optimization,Beginner
+Revise CNN quickly.,Revision,CNN,Intermediate
+What is the difference between Gradient Descent and other method?,Doubt clarification,Gradient Descent,Intermediate
+Review CNN. keep it simple.,Revision,CNN,Beginner
+Is Natural Language Processing better than others? keep it simple.,Doubt clarification,Natural Language Processing,Beginner
+Clarify Neural Networks for me.,Doubt clarification,Neural Networks,Intermediate
+Recap CNN.,Revision,CNN,Intermediate
+Important concepts in Computer Vision.,Revision,Computer Vision,Intermediate
+Show me a use case for Transformers. in depth detail.,Example,Transformers,Advanced
+Important concepts in Natural Language Processing. in depth detail.,Revision,Natural Language Processing,Advanced
+Recap Reinforcement Learning.,Revision,Reinforcement Learning,Intermediate
+Is Optimization better than others?,Doubt clarification,Optimization,Intermediate
+Practical application of RNN? in depth detail.,Example,RNN,Advanced
+Explain different types of RNN. in depth detail.,Explanation,RNN,Advanced
+Review Optimization.,Revision,Optimization,Intermediate
+Review Computer Vision. in depth detail.,Revision,Computer Vision,Advanced
+Real world example of CNN.,Example,CNN,Intermediate
+Clarify Gradient Descent for me. in depth detail.,Doubt clarification,Gradient Descent,Advanced
+Key points of Computer Vision. in depth detail.,Revision,Computer Vision,Advanced
+Meaning of Neural Networks? keep it simple.,Explanation,Neural Networks,Beginner
+Review Backpropagation. keep it simple.,Revision,Backpropagation,Beginner
+Practical application of Transformers? in depth detail.,Example,Transformers,Advanced
+Can you describe RNN?,Explanation,RNN,Intermediate
+Show me a use case for Transformers. keep it simple.,Example,Transformers,Beginner
+Give me an example of Transformers.,Example,Transformers,Intermediate
+Code example for Transformers. in depth detail.,Example,Transformers,Advanced
+I am stuck on Optimization. keep it simple.,Doubt clarification,Optimization,Beginner
+Important concepts in Optimization. in depth detail.,Revision,Optimization,Advanced
+What is Natural Language Processing?,Explanation,Natural Language Processing,Intermediate
+Code example for Neural Networks. keep it simple.,Example,Neural Networks,Beginner
+What is Transformers? keep it simple.,Explanation,Transformers,Beginner
+Recap Natural Language Processing.,Revision,Natural Language Processing,Intermediate
+Show me a use case for Reinforcement Learning. keep it simple.,Example,Reinforcement Learning,Beginner
+Define Computer Vision. keep it simple.,Explanation,Computer Vision,Beginner
+What is Backpropagation? in depth detail.,Explanation,Backpropagation,Advanced
+I am stuck on Natural Language Processing. keep it simple.,Doubt clarification,Natural Language Processing,Beginner
+I don't understand RNN.,Explanation,RNN,Intermediate
+What is the difference between Optimization and other method? in depth detail.,Doubt clarification,Optimization,Advanced
+Demonstrate CNN with an example. keep it simple.,Example,CNN,Beginner
+Summary of Computer Vision. in depth detail.,Revision,Computer Vision,Advanced
+Is Backpropagation better than others?,Doubt clarification,Backpropagation,Intermediate
+Can you describe Backpropagation? in depth detail.,Explanation,Backpropagation,Advanced
+Why do we use Transformers? in depth detail.,Doubt clarification,Transformers,Advanced
+Recap Neural Networks. keep it simple.,Revision,Neural Networks,Beginner
+Tell me about Transformers. in depth detail.,Explanation,Transformers,Advanced
+Revise Backpropagation quickly. in depth detail.,Revision,Backpropagation,Advanced
+Clarify RNN for me. keep it simple.,Doubt clarification,RNN,Beginner
+How does Natural Language Processing work?,Explanation,Natural Language Processing,Intermediate
+Review Optimization. in depth detail.,Revision,Optimization,Advanced
+Demonstrate Computer Vision with an example. in depth detail.,Example,Computer Vision,Advanced
+Explain different types of Computer Vision. in depth detail.,Explanation,Computer Vision,Advanced
+I am stuck on Natural Language Processing. in depth detail.,Doubt clarification,Natural Language Processing,Advanced
+Confusion about Optimization.,Doubt clarification,Optimization,Intermediate
+Recap Transformers. in depth detail.,Revision,Transformers,Advanced
+What is the difference between CNN and other method? keep it simple.,Doubt clarification,CNN,Beginner
+Code example for Natural Language Processing.,Example,Natural Language Processing,Intermediate
+Why do we use Transformers?,Doubt clarification,Transformers,Intermediate
+Clarify CNN for me. in depth detail.,Doubt clarification,CNN,Advanced
+Why does CNN fail? in depth detail.,Doubt clarification,CNN,Advanced
+Real world example of Gradient Descent. keep it simple.,Example,Gradient Descent,Beginner
+Clarify Natural Language Processing for me. in depth detail.,Doubt clarification,Natural Language Processing,Advanced
+Review Gradient Descent. in depth detail.,Revision,Gradient Descent,Advanced
+Important concepts in Backpropagation. in depth detail.,Revision,Backpropagation,Advanced
+I don't understand RNN. keep it simple.,Explanation,RNN,Beginner
+Meaning of Computer Vision?,Explanation,Computer Vision,Intermediate
+I don't understand Transformers.,Explanation,Transformers,Intermediate
+Recap Neural Networks. in depth detail.,Revision,Neural Networks,Advanced
+Give me an example of Natural Language Processing. keep it simple.,Example,Natural Language Processing,Beginner
+What is Optimization? keep it simple.,Explanation,Optimization,Beginner
+I am stuck on Computer Vision. keep it simple.,Doubt clarification,Computer Vision,Beginner
+Explain different types of Transformers. in depth detail.,Explanation,Transformers,Advanced
+Code example for Optimization. in depth detail.,Example,Optimization,Advanced
+Tell me about Optimization. keep it simple.,Explanation,Optimization,Beginner
+Code example for Backpropagation.,Example,Backpropagation,Intermediate
+Why do we use Backpropagation?,Doubt clarification,Backpropagation,Intermediate
+Why do we use Backpropagation? keep it simple.,Doubt clarification,Backpropagation,Beginner
+Key points of Transformers. keep it simple.,Revision,Transformers,Beginner
+Demonstrate Neural Networks with an example.,Example,Neural Networks,Intermediate
+What is the difference between Neural Networks and other method? keep it simple.,Doubt clarification,Neural Networks,Beginner
+I don't understand RNN. keep it simple.,Explanation,RNN,Beginner
+How does Backpropagation work?,Explanation,Backpropagation,Intermediate
+Why do we use Backpropagation? in depth detail.,Doubt clarification,Backpropagation,Advanced
+Recap Neural Networks. in depth detail.,Revision,Neural Networks,Advanced
+Clarify Computer Vision for me. keep it simple.,Doubt clarification,Computer Vision,Beginner
+Confusion about Computer Vision. in depth detail.,Doubt clarification,Computer Vision,Advanced
+Show me a use case for RNN.,Example,RNN,Intermediate
+Key points of Computer Vision. in depth detail.,Revision,Computer Vision,Advanced
+Summary of Transformers.,Revision,Transformers,Intermediate
+What is CNN? in depth detail.,Explanation,CNN,Advanced
+I don't understand Neural Networks.,Explanation,Neural Networks,Intermediate
+Show me a use case for Neural Networks.,Example,Neural Networks,Intermediate
+Explain different types of Computer Vision. in depth detail.,Explanation,Computer Vision,Advanced
+What is RNN? keep it simple.,Explanation,RNN,Beginner
+Confusion about Optimization. in depth detail.,Doubt clarification,Optimization,Advanced
+Key points of Natural Language Processing.,Revision,Natural Language Processing,Intermediate
+Key points of Reinforcement Learning.,Revision,Reinforcement Learning,Intermediate
+Clarify Transformers for me. in depth detail.,Doubt clarification,Transformers,Advanced
+Meaning of Optimization? in depth detail.,Explanation,Optimization,Advanced
+Clarify Computer Vision for me.,Doubt clarification,Computer Vision,Intermediate
+I am stuck on Transformers. keep it simple.,Doubt clarification,Transformers,Beginner
+Why do we use Computer Vision? keep it simple.,Doubt clarification,Computer Vision,Beginner
+Clarify Optimization for me.,Doubt clarification,Optimization,Intermediate
+Key points of Natural Language Processing. in depth detail.,Revision,Natural Language Processing,Advanced
+Real world example of Reinforcement Learning. keep it simple.,Example,Reinforcement Learning,Beginner
+Revise Gradient Descent quickly. keep it simple.,Revision,Gradient Descent,Beginner
+Code example for Reinforcement Learning.,Example,Reinforcement Learning,Intermediate
+What is the difference between Gradient Descent and other method?,Doubt clarification,Gradient Descent,Intermediate
+Summary of Computer Vision.,Revision,Computer Vision,Intermediate
+Give me an example of Reinforcement Learning.,Example,Reinforcement Learning,Intermediate
+Practical application of Neural Networks? in depth detail.,Example,Neural Networks,Advanced
+Explain different types of Backpropagation.,Explanation,Backpropagation,Intermediate
+Why does Optimization fail? in depth detail.,Doubt clarification,Optimization,Advanced
+I am stuck on Backpropagation. in depth detail.,Doubt clarification,Backpropagation,Advanced
+Confusion about CNN. in depth detail.,Doubt clarification,CNN,Advanced
+Clarify CNN for me. in depth detail.,Doubt clarification,CNN,Advanced
+Is Reinforcement Learning better than others?,Doubt clarification,Reinforcement Learning,Intermediate
+Important concepts in Optimization. keep it simple.,Revision,Optimization,Beginner
+Show me a use case for Gradient Descent.,Example,Gradient Descent,Intermediate
+Practical application of Computer Vision? in depth detail.,Example,Computer Vision,Advanced
+How does Computer Vision work?,Explanation,Computer Vision,Intermediate
+Demonstrate Reinforcement Learning with an example.,Example,Reinforcement Learning,Intermediate
+Review CNN. keep it simple.,Revision,CNN,Beginner
+Clarify Reinforcement Learning for me. keep it simple.,Doubt clarification,Reinforcement Learning,Beginner
+Recap Optimization.,Revision,Optimization,Intermediate
+Practical application of CNN? in depth detail.,Example,CNN,Advanced
+Demonstrate RNN with an example.,Example,RNN,Intermediate
+I am stuck on Backpropagation. keep it simple.,Doubt clarification,Backpropagation,Beginner
+Explain different types of Reinforcement Learning. in depth detail.,Explanation,Reinforcement Learning,Advanced
+Is Optimization better than others? keep it simple.,Doubt clarification,Optimization,Beginner
+Give me an example of Neural Networks. in depth detail.,Example,Neural Networks,Advanced
+Meaning of Backpropagation? in depth detail.,Explanation,Backpropagation,Advanced
+Practical application of CNN? keep it simple.,Example,CNN,Beginner
+Code example for Gradient Descent. keep it simple.,Example,Gradient Descent,Beginner
+Explain different types of Optimization.,Explanation,Optimization,Intermediate
+Can you describe Natural Language Processing? in depth detail.,Explanation,Natural Language Processing,Advanced
+Code example for Optimization.,Example,Optimization,Intermediate
+Tell me about Neural Networks.,Explanation,Neural Networks,Intermediate
+Why does Gradient Descent fail? in depth detail.,Doubt clarification,Gradient Descent,Advanced
+Can you describe Neural Networks?,Explanation,Neural Networks,Intermediate
+Meaning of CNN? in depth detail.,Explanation,CNN,Advanced
+Revise Transformers quickly. keep it simple.,Revision,Transformers,Beginner
+Tell me about RNN. in depth detail.,Explanation,RNN,Advanced
+What is Transformers? in depth detail.,Explanation,Transformers,Advanced
+Key points of Neural Networks. keep it simple.,Revision,Neural Networks,Beginner
+Why does Backpropagation fail? keep it simple.,Doubt clarification,Backpropagation,Beginner
+Tell me about Natural Language Processing. in depth detail.,Explanation,Natural Language Processing,Advanced
+Explain different types of Natural Language Processing. in depth detail.,Explanation,Natural Language Processing,Advanced
+Practical application of Reinforcement Learning? in depth detail.,Example,Reinforcement Learning,Advanced
+Review Backpropagation. in depth detail.,Revision,Backpropagation,Advanced
+Give me an example of Reinforcement Learning.,Example,Reinforcement Learning,Intermediate
+I am stuck on Transformers. keep it simple.,Doubt clarification,Transformers,Beginner
+I am stuck on RNN. keep it simple.,Doubt clarification,RNN,Beginner
+Why do we use Backpropagation? in depth detail.,Doubt clarification,Backpropagation,Advanced
+Key points of Natural Language Processing. in depth detail.,Revision,Natural Language Processing,Advanced
+Important concepts in Natural Language Processing. keep it simple.,Revision,Natural Language Processing,Beginner
+Show me a use case for CNN. in depth detail.,Example,CNN,Advanced
+I am stuck on Backpropagation. in depth detail.,Doubt clarification,Backpropagation,Advanced
+Code example for RNN. keep it simple.,Example,RNN,Beginner
+How does Neural Networks work?,Explanation,Neural Networks,Intermediate
+Recap Neural Networks. keep it simple.,Revision,Neural Networks,Beginner
+Demonstrate Reinforcement Learning with an example. keep it simple.,Example,Reinforcement Learning,Beginner
+Confusion about RNN.,Doubt clarification,RNN,Intermediate
+Explain different types of Transformers. keep it simple.,Explanation,Transformers,Beginner
+Is Natural Language Processing better than others?,Doubt clarification,Natural Language Processing,Intermediate
+Why does Optimization fail? in depth detail.,Doubt clarification,Optimization,Advanced
+Key points of CNN. keep it simple.,Revision,CNN,Beginner
+What is the difference between RNN and other method? in depth detail.,Doubt clarification,RNN,Advanced
+Explain different types of Gradient Descent. keep it simple.,Explanation,Gradient Descent,Beginner
+I am stuck on Computer Vision. in depth detail.,Doubt clarification,Computer Vision,Advanced
+What is Reinforcement Learning? keep it simple.,Explanation,Reinforcement Learning,Beginner
+Revise RNN quickly.,Revision,RNN,Intermediate
+Why do we use RNN? keep it simple.,Doubt clarification,RNN,Beginner
+I don't understand Backpropagation. keep it simple.,Explanation,Backpropagation,Beginner
+Tell me about Gradient Descent. keep it simple.,Explanation,Gradient Descent,Beginner
+Meaning of CNN? keep it simple.,Explanation,CNN,Beginner
+Why does Neural Networks fail? in depth detail.,Doubt clarification,Neural Networks,Advanced
+I am stuck on Reinforcement Learning.,Doubt clarification,Reinforcement Learning,Intermediate
+Meaning of Computer Vision?,Explanation,Computer Vision,Intermediate
+Summary of Transformers.,Revision,Transformers,Intermediate
+Key points of Gradient Descent. in depth detail.,Revision,Gradient Descent,Advanced
+Summary of Reinforcement Learning.,Revision,Reinforcement Learning,Intermediate
+Meaning of Reinforcement Learning?,Explanation,Reinforcement Learning,Intermediate
+Clarify Backpropagation for me. keep it simple.,Doubt clarification,Backpropagation,Beginner
+Why does Neural Networks fail?,Doubt clarification,Neural Networks,Intermediate
+Review Transformers.,Revision,Transformers,Intermediate
+Demonstrate Natural Language Processing with an example.,Example,Natural Language Processing,Intermediate
+Define Reinforcement Learning.,Explanation,Reinforcement Learning,Intermediate
+Tell me about Computer Vision. keep it simple.,Explanation,Computer Vision,Beginner
+Review Backpropagation. keep it simple.,Revision,Backpropagation,Beginner
+Explain different types of Natural Language Processing. in depth detail.,Explanation,Natural Language Processing,Advanced
+Confusion about Gradient Descent.,Doubt clarification,Gradient Descent,Intermediate
+Give me an example of Neural Networks.,Example,Neural Networks,Intermediate
+Demonstrate Transformers with an example. keep it simple.,Example,Transformers,Beginner
+Review Transformers.,Revision,Transformers,Intermediate
+Explain different types of Optimization. in depth detail.,Explanation,Optimization,Advanced
+What is the difference between Gradient Descent and other method? in depth detail.,Doubt clarification,Gradient Descent,Advanced
+I am stuck on Backpropagation.,Doubt clarification,Backpropagation,Intermediate
+Summary of Neural Networks.,Revision,Neural Networks,Intermediate
+Show me a use case for Backpropagation. in depth detail.,Example,Backpropagation,Advanced
+Show me a use case for Computer Vision.,Example,Computer Vision,Intermediate
+Revise Natural Language Processing quickly.,Revision,Natural Language Processing,Intermediate
+Code example for Transformers.,Example,Transformers,Intermediate
+I don't understand Backpropagation. keep it simple.,Explanation,Backpropagation,Beginner
+Is Backpropagation better than others? keep it simple.,Doubt clarification,Backpropagation,Beginner
+Revise Optimization quickly. keep it simple.,Revision,Optimization,Beginner
+Why does RNN fail?,Doubt clarification,RNN,Intermediate
+What is the difference between Neural Networks and other method? keep it simple.,Doubt clarification,Neural Networks,Beginner
+Key points of Reinforcement Learning.,Revision,Reinforcement Learning,Intermediate
+Revise Backpropagation quickly. in depth detail.,Revision,Backpropagation,Advanced
+Give me an example of Optimization.,Example,Optimization,Intermediate
+Clarify Backpropagation for me.,Doubt clarification,Backpropagation,Intermediate
+Important concepts in Backpropagation. in depth detail.,Revision,Backpropagation,Advanced
+Code example for Natural Language Processing. keep it simple.,Example,Natural Language Processing,Beginner
+Recap Computer Vision. in depth detail.,Revision,Computer Vision,Advanced
+Code example for Optimization. keep it simple.,Example,Optimization,Beginner
+Important concepts in Natural Language Processing. keep it simple.,Revision,Natural Language Processing,Beginner
+Real world example of Neural Networks.,Example,Neural Networks,Intermediate
+Why does CNN fail? keep it simple.,Doubt clarification,CNN,Beginner
+Recap Reinforcement Learning. in depth detail.,Revision,Reinforcement Learning,Advanced
+Define Gradient Descent. in depth detail.,Explanation,Gradient Descent,Advanced
+Show me a use case for RNN.,Example,RNN,Intermediate
+Give me an example of Backpropagation. keep it simple.,Example,Backpropagation,Beginner
+Why does Natural Language Processing fail? keep it simple.,Doubt clarification,Natural Language Processing,Beginner
+Is Gradient Descent better than others? keep it simple.,Doubt clarification,Gradient Descent,Beginner
+Code example for Backpropagation.,Example,Backpropagation,Intermediate
+Practical application of Neural Networks?,Example,Neural Networks,Intermediate
+Clarify Reinforcement Learning for me.,Doubt clarification,Reinforcement Learning,Intermediate
+Real world example of Backpropagation. in depth detail.,Example,Backpropagation,Advanced
+Show me a use case for Optimization.,Example,Optimization,Intermediate
+Explain different types of Computer Vision. keep it simple.,Explanation,Computer Vision,Beginner
+Revise Computer Vision quickly. in depth detail.,Revision,Computer Vision,Advanced
+I am stuck on CNN. in depth detail.,Doubt clarification,CNN,Advanced
+Meaning of Backpropagation? in depth detail.,Explanation,Backpropagation,Advanced
+Is Backpropagation better than others? in depth detail.,Doubt clarification,Backpropagation,Advanced
+Is Neural Networks better than others?,Doubt clarification,Neural Networks,Intermediate
+I am stuck on Optimization. keep it simple.,Doubt clarification,Optimization,Beginner
+Code example for Gradient Descent. keep it simple.,Example,Gradient Descent,Beginner
+Practical application of Natural Language Processing? keep it simple.,Example,Natural Language Processing,Beginner
+Why does Transformers fail?,Doubt clarification,Transformers,Intermediate
+Real world example of Natural Language Processing. in depth detail.,Example,Natural Language Processing,Advanced
+Give me an example of Optimization. keep it simple.,Example,Optimization,Beginner
+Important concepts in Transformers. keep it simple.,Revision,Transformers,Beginner
+Key points of Natural Language Processing. in depth detail.,Revision,Natural Language Processing,Advanced
+Clarify RNN for me.,Doubt clarification,RNN,Intermediate
+Meaning of Backpropagation? keep it simple.,Explanation,Backpropagation,Beginner
+Code example for Reinforcement Learning. in depth detail.,Example,Reinforcement Learning,Advanced
+Revise CNN quickly. in depth detail.,Revision,CNN,Advanced
+Revise Backpropagation quickly. in depth detail.,Revision,Backpropagation,Advanced
+I am stuck on Backpropagation. keep it simple.,Doubt clarification,Backpropagation,Beginner
+Code example for CNN. keep it simple.,Example,CNN,Beginner
+Recap Reinforcement Learning. keep it simple.,Revision,Reinforcement Learning,Beginner
+What is the difference between Optimization and other method? in depth detail.,Doubt clarification,Optimization,Advanced
+Demonstrate Transformers with an example.,Example,Transformers,Intermediate
+Tell me about Neural Networks. in depth detail.,Explanation,Neural Networks,Advanced
+Confusion about RNN.,Doubt clarification,RNN,Intermediate
+I am stuck on Neural Networks.,Doubt clarification,Neural Networks,Intermediate
+Tell me about Gradient Descent. keep it simple.,Explanation,Gradient Descent,Beginner
+Explain different types of Reinforcement Learning. in depth detail.,Explanation,Reinforcement Learning,Advanced
+Key points of Backpropagation.,Revision,Backpropagation,Intermediate
+Is CNN better than others? keep it simple.,Doubt clarification,CNN,Beginner
+Demonstrate Natural Language Processing with an example. in depth detail.,Example,Natural Language Processing,Advanced
+Important concepts in Backpropagation. in depth detail.,Revision,Backpropagation,Advanced
+Why does Optimization fail? keep it simple.,Doubt clarification,Optimization,Beginner
+Summary of Reinforcement Learning. keep it simple.,Revision,Reinforcement Learning,Beginner
+Practical application of Natural Language Processing?,Example,Natural Language Processing,Intermediate
+What is Computer Vision?,Explanation,Computer Vision,Intermediate
+Give me an example of Computer Vision.,Example,Computer Vision,Intermediate
+Important concepts in Transformers. in depth detail.,Revision,Transformers,Advanced
+What is Neural Networks? in depth detail.,Explanation,Neural Networks,Advanced
+Recap Reinforcement Learning. in depth detail.,Revision,Reinforcement Learning,Advanced
+Meaning of Transformers? in depth detail.,Explanation,Transformers,Advanced
+Define Natural Language Processing. in depth detail.,Explanation,Natural Language Processing,Advanced
+I don't understand RNN. in depth detail.,Explanation,RNN,Advanced
+Real world example of CNN.,Example,CNN,Intermediate
+I don't understand Optimization. in depth detail.,Explanation,Optimization,Advanced
+Can you describe Optimization? in depth detail.,Explanation,Optimization,Advanced
+Real world example of Gradient Descent. keep it simple.,Example,Gradient Descent,Beginner
+I don't understand Neural Networks. in depth detail.,Explanation,Neural Networks,Advanced
+Important concepts in Backpropagation. keep it simple.,Revision,Backpropagation,Beginner
+Clarify Reinforcement Learning for me. in depth detail.,Doubt clarification,Reinforcement Learning,Advanced
+Summary of Computer Vision.,Revision,Computer Vision,Intermediate
+Is CNN better than others? keep it simple.,Doubt clarification,CNN,Beginner
+Recap Reinforcement Learning. in depth detail.,Revision,Reinforcement Learning,Advanced
+Important concepts in Transformers.,Revision,Transformers,Intermediate
+Give me an example of Reinforcement Learning. keep it simple.,Example,Reinforcement Learning,Beginner
+I am stuck on Neural Networks.,Doubt clarification,Neural Networks,Intermediate
+Why do we use Reinforcement Learning? in depth detail.,Doubt clarification,Reinforcement Learning,Advanced
+How does Reinforcement Learning work?,Explanation,Reinforcement Learning,Intermediate
+Why does Computer Vision fail? in depth detail.,Doubt clarification,Computer Vision,Advanced
+Explain different types of Gradient Descent. in depth detail.,Explanation,Gradient Descent,Advanced
+Meaning of Optimization? in depth detail.,Explanation,Optimization,Advanced
+Why do we use Computer Vision? keep it simple.,Doubt clarification,Computer Vision,Beginner
+Give me an example of RNN. in depth detail.,Example,RNN,Advanced
+Recap RNN.,Revision,RNN,Intermediate
+Summary of Neural Networks. keep it simple.,Revision,Neural Networks,Beginner
+Key points of Computer Vision.,Revision,Computer Vision,Intermediate
+Recap Computer Vision. keep it simple.,Revision,Computer Vision,Beginner
+What is Optimization? in depth detail.,Explanation,Optimization,Advanced
+Why does Gradient Descent fail? keep it simple.,Doubt clarification,Gradient Descent,Beginner
+Meaning of Neural Networks?,Explanation,Neural Networks,Intermediate
+Key points of Transformers. in depth detail.,Revision,Transformers,Advanced
+Real world example of Backpropagation. in depth detail.,Example,Backpropagation,Advanced
+Summary of Gradient Descent.,Revision,Gradient Descent,Intermediate
+What is Natural Language Processing? in depth detail.,Explanation,Natural Language Processing,Advanced
+What is the difference between Backpropagation and other method? in depth detail.,Doubt clarification,Backpropagation,Advanced
+Can you describe Computer Vision?,Explanation,Computer Vision,Intermediate
+Review Optimization. keep it simple.,Revision,Optimization,Beginner
+Is Natural Language Processing better than others?,Doubt clarification,Natural Language Processing,Intermediate
+Why does Optimization fail?,Doubt clarification,Optimization,Intermediate
+Important concepts in Neural Networks.,Revision,Neural Networks,Intermediate
+Confusion about Natural Language Processing. in depth detail.,Doubt clarification,Natural Language Processing,Advanced
+Can you describe Natural Language Processing? keep it simple.,Explanation,Natural Language Processing,Beginner
+Tell me about RNN. in depth detail.,Explanation,RNN,Advanced
+How does Gradient Descent work? in depth detail.,Explanation,Gradient Descent,Advanced
+Why do we use Gradient Descent? in depth detail.,Doubt clarification,Gradient Descent,Advanced
+I don't understand Reinforcement Learning. in depth detail.,Explanation,Reinforcement Learning,Advanced
+Important concepts in CNN. in depth detail.,Revision,CNN,Advanced
+How does Transformers work? in depth detail.,Explanation,Transformers,Advanced
+Why does RNN fail?,Doubt clarification,RNN,Intermediate
+Define Transformers. keep it simple.,Explanation,Transformers,Beginner
+Confusion about RNN. keep it simple.,Doubt clarification,RNN,Beginner
+Practical application of Backpropagation? in depth detail.,Example,Backpropagation,Advanced
+Tell me about Transformers. keep it simple.,Explanation,Transformers,Beginner
+What is the difference between Gradient Descent and other method?,Doubt clarification,Gradient Descent,Intermediate
+I don't understand Reinforcement Learning. keep it simple.,Explanation,Reinforcement Learning,Beginner
+Why does Natural Language Processing fail? keep it simple.,Doubt clarification,Natural Language Processing,Beginner
+Define Reinforcement Learning.,Explanation,Reinforcement Learning,Intermediate
+Why do we use RNN? keep it simple.,Doubt clarification,RNN,Beginner
+Practical application of CNN? in depth detail.,Example,CNN,Advanced
+Confusion about CNN.,Doubt clarification,CNN,Intermediate
+Demonstrate Gradient Descent with an example.,Example,Gradient Descent,Intermediate
+How does Optimization work? keep it simple.,Explanation,Optimization,Beginner
+Clarify Transformers for me. in depth detail.,Doubt clarification,Transformers,Advanced
+Confusion about CNN. keep it simple.,Doubt clarification,CNN,Beginner
+Demonstrate Gradient Descent with an example. keep it simple.,Example,Gradient Descent,Beginner
+Why do we use RNN? keep it simple.,Doubt clarification,RNN,Beginner
+Key points of Reinforcement Learning. in depth detail.,Revision,Reinforcement Learning,Advanced
+Practical application of Neural Networks?,Example,Neural Networks,Intermediate
+What is the difference between Optimization and other method? keep it simple.,Doubt clarification,Optimization,Beginner
+Why do we use Neural Networks? in depth detail.,Doubt clarification,Neural Networks,Advanced
+Is Backpropagation better than others? keep it simple.,Doubt clarification,Backpropagation,Beginner
+Define Reinforcement Learning.,Explanation,Reinforcement Learning,Intermediate
+Tell me about Reinforcement Learning. keep it simple.,Explanation,Reinforcement Learning,Beginner
+Real world example of Backpropagation. keep it simple.,Example,Backpropagation,Beginner
+Confusion about Transformers. in depth detail.,Doubt clarification,Transformers,Advanced
+Important concepts in Computer Vision. in depth detail.,Revision,Computer Vision,Advanced
+Demonstrate Backpropagation with an example.,Example,Backpropagation,Intermediate
+Tell me about Reinforcement Learning.,Explanation,Reinforcement Learning,Intermediate
+Recap Backpropagation.,Revision,Backpropagation,Intermediate
+Summary of CNN.,Revision,CNN,Intermediate
+Is Backpropagation better than others? in depth detail.,Doubt clarification,Backpropagation,Advanced
+Recap RNN.,Revision,RNN,Intermediate
+Summary of Reinforcement Learning. keep it simple.,Revision,Reinforcement Learning,Beginner
+Give me an example of Backpropagation. in depth detail.,Example,Backpropagation,Advanced
+Key points of CNN. keep it simple.,Revision,CNN,Beginner
+Why do we use Optimization?,Doubt clarification,Optimization,Intermediate
+Can you describe Optimization? keep it simple.,Explanation,Optimization,Beginner
+Demonstrate Optimization with an example. in depth detail.,Example,Optimization,Advanced
+Can you describe Gradient Descent?,Explanation,Gradient Descent,Intermediate
+Explain different types of Natural Language Processing. keep it simple.,Explanation,Natural Language Processing,Beginner
+Recap Computer Vision.,Revision,Computer Vision,Intermediate
+Review RNN.,Revision,RNN,Intermediate
+Important concepts in Gradient Descent. keep it simple.,Revision,Gradient Descent,Beginner
+Demonstrate Transformers with an example. keep it simple.,Example,Transformers,Beginner
+Can you describe CNN? keep it simple.,Explanation,CNN,Beginner
+Is Reinforcement Learning better than others? in depth detail.,Doubt clarification,Reinforcement Learning,Advanced
+I am stuck on Computer Vision. keep it simple.,Doubt clarification,Computer Vision,Beginner
+Summary of Transformers. keep it simple.,Revision,Transformers,Beginner
+Review Optimization.,Revision,Optimization,Intermediate
+Revise Computer Vision quickly. keep it simple.,Revision,Computer Vision,Beginner
+Define Backpropagation. in depth detail.,Explanation,Backpropagation,Advanced
+Can you describe Optimization? keep it simple.,Explanation,Optimization,Beginner
+Summary of Optimization. keep it simple.,Revision,Optimization,Beginner
+Can you describe CNN? in depth detail.,Explanation,CNN,Advanced
+Confusion about Reinforcement Learning.,Doubt clarification,Reinforcement Learning,Intermediate
+Why does Reinforcement Learning fail? in depth detail.,Doubt clarification,Reinforcement Learning,Advanced
+Revise Reinforcement Learning quickly.,Revision,Reinforcement Learning,Intermediate
+How does Natural Language Processing work?,Explanation,Natural Language Processing,Intermediate
+Review Natural Language Processing. keep it simple.,Revision,Natural Language Processing,Beginner
+Give me an example of RNN. in depth detail.,Example,RNN,Advanced
+Meaning of Computer Vision?,Explanation,Computer Vision,Intermediate
+Why do we use CNN? in depth detail.,Doubt clarification,CNN,Advanced
+Why does RNN fail? in depth detail.,Doubt clarification,RNN,Advanced
+What is the difference between Natural Language Processing and other method? in depth detail.,Doubt clarification,Natural Language Processing,Advanced
+Summary of Backpropagation. keep it simple.,Revision,Backpropagation,Beginner
+Practical application of Natural Language Processing? in depth detail.,Example,Natural Language Processing,Advanced
+Show me a use case for Computer Vision.,Example,Computer Vision,Intermediate
+Explain different types of Natural Language Processing. in depth detail.,Explanation,Natural Language Processing,Advanced
+Is Backpropagation better than others?,Doubt clarification,Backpropagation,Intermediate
+Why does Optimization fail? in depth detail.,Doubt clarification,Optimization,Advanced
+Real world example of Reinforcement Learning. in depth detail.,Example,Reinforcement Learning,Advanced
+Code example for Backpropagation. keep it simple.,Example,Backpropagation,Beginner
+Summary of CNN. keep it simple.,Revision,CNN,Beginner
+Why do we use RNN? in depth detail.,Doubt clarification,RNN,Advanced
+I am stuck on Optimization.,Doubt clarification,Optimization,Intermediate
+Code example for Backpropagation.,Example,Backpropagation,Intermediate
+Define Gradient Descent.,Explanation,Gradient Descent,Intermediate
+Tell me about Neural Networks.,Explanation,Neural Networks,Intermediate
+Key points of Reinforcement Learning.,Revision,Reinforcement Learning,Intermediate
+Key points of Reinforcement Learning. in depth detail.,Revision,Reinforcement Learning,Advanced
+Practical application of Computer Vision?,Example,Computer Vision,Intermediate
+Important concepts in Computer Vision.,Revision,Computer Vision,Intermediate
+Show me a use case for Computer Vision. keep it simple.,Example,Computer Vision,Beginner
+Confusion about Transformers. in depth detail.,Doubt clarification,Transformers,Advanced
+Give me an example of Computer Vision.,Example,Computer Vision,Intermediate
+I don't understand Gradient Descent. in depth detail.,Explanation,Gradient Descent,Advanced
+Define Reinforcement Learning.,Explanation,Reinforcement Learning,Intermediate
+Practical application of Reinforcement Learning? in depth detail.,Example,Reinforcement Learning,Advanced
+Important concepts in Neural Networks.,Revision,Neural Networks,Intermediate
+Tell me about Gradient Descent. in depth detail.,Explanation,Gradient Descent,Advanced
+Explain different types of RNN.,Explanation,RNN,Intermediate
+Confusion about CNN.,Doubt clarification,CNN,Intermediate
+Why do we use CNN?,Doubt clarification,CNN,Intermediate
+Confusion about CNN.,Doubt clarification,CNN,Intermediate
+Summary of Reinforcement Learning. keep it simple.,Revision,Reinforcement Learning,Beginner
+Meaning of Optimization?,Explanation,Optimization,Intermediate
+I don't understand Natural Language Processing. keep it simple.,Explanation,Natural Language Processing,Beginner
+What is Transformers? in depth detail.,Explanation,Transformers,Advanced
+Code example for Optimization. in depth detail.,Example,Optimization,Advanced
+Is Backpropagation better than others? in depth detail.,Doubt clarification,Backpropagation,Advanced
+Show me a use case for Transformers. keep it simple.,Example,Transformers,Beginner
+Is RNN better than others?,Doubt clarification,RNN,Intermediate
+Confusion about CNN. keep it simple.,Doubt clarification,CNN,Beginner
+Summary of Transformers.,Revision,Transformers,Intermediate
+Real world example of Gradient Descent.,Example,Gradient Descent,Intermediate
+Code example for Optimization. in depth detail.,Example,Optimization,Advanced
+I am stuck on CNN. in depth detail.,Doubt clarification,CNN,Advanced
+Show me a use case for Optimization. keep it simple.,Example,Optimization,Beginner
+I am stuck on Neural Networks.,Doubt clarification,Neural Networks,Intermediate
+Confusion about CNN. keep it simple.,Doubt clarification,CNN,Beginner
+Review Gradient Descent.,Revision,Gradient Descent,Intermediate
+Review Reinforcement Learning. in depth detail.,Revision,Reinforcement Learning,Advanced
+Code example for RNN.,Example,RNN,Intermediate
+Code example for Neural Networks.,Example,Neural Networks,Intermediate
+Revise Transformers quickly.,Revision,Transformers,Intermediate
+Revise Neural Networks quickly.,Revision,Neural Networks,Intermediate
+Why does Gradient Descent fail? keep it simple.,Doubt clarification,Gradient Descent,Beginner
+Define Neural Networks.,Explanation,Neural Networks,Intermediate
+I don't understand Neural Networks. in depth detail.,Explanation,Neural Networks,Advanced
+Give me an example of Transformers. keep it simple.,Example,Transformers,Beginner
+Real world example of Gradient Descent. in depth detail.,Example,Gradient Descent,Advanced
+Show me a use case for Backpropagation. in depth detail.,Example,Backpropagation,Advanced
+Explain different types of Backpropagation. keep it simple.,Explanation,Backpropagation,Beginner
+Why does RNN fail? in depth detail.,Doubt clarification,RNN,Advanced
+What is the difference between RNN and other method? keep it simple.,Doubt clarification,RNN,Beginner
+How does Neural Networks work? keep it simple.,Explanation,Neural Networks,Beginner
+Why does Transformers fail? keep it simple.,Doubt clarification,Transformers,Beginner
+Real world example of Reinforcement Learning. in depth detail.,Example,Reinforcement Learning,Advanced
+Give me an example of Natural Language Processing. in depth detail.,Example,Natural Language Processing,Advanced
+Recap Computer Vision. in depth detail.,Revision,Computer Vision,Advanced
+How does Gradient Descent work? keep it simple.,Explanation,Gradient Descent,Beginner
+Practical application of CNN? keep it simple.,Example,CNN,Beginner
+Important concepts in Reinforcement Learning.,Revision,Reinforcement Learning,Intermediate
+Recap Gradient Descent. in depth detail.,Revision,Gradient Descent,Advanced
+Practical application of Optimization? keep it simple.,Example,Optimization,Beginner
+Confusion about Backpropagation. in depth detail.,Doubt clarification,Backpropagation,Advanced
+Why does Natural Language Processing fail? keep it simple.,Doubt clarification,Natural Language Processing,Beginner
+Review Neural Networks.,Revision,Neural Networks,Intermediate
+Recap CNN.,Revision,CNN,Intermediate
+Why do we use Backpropagation? in depth detail.,Doubt clarification,Backpropagation,Advanced
+Demonstrate Gradient Descent with an example. keep it simple.,Example,Gradient Descent,Beginner
+Confusion about Optimization. in depth detail.,Doubt clarification,Optimization,Advanced
+Define RNN. in depth detail.,Explanation,RNN,Advanced
+Is RNN better than others? keep it simple.,Doubt clarification,RNN,Beginner
+Review Reinforcement Learning.,Revision,Reinforcement Learning,Intermediate
+Give me an example of Optimization. keep it simple.,Example,Optimization,Beginner
+Code example for Gradient Descent.,Example,Gradient Descent,Intermediate
+Summary of Neural Networks.,Revision,Neural Networks,Intermediate
+Why do we use Gradient Descent?,Doubt clarification,Gradient Descent,Intermediate
+What is the difference between RNN and other method? in depth detail.,Doubt clarification,RNN,Advanced
+Demonstrate RNN with an example.,Example,RNN,Intermediate
+Recap Optimization.,Revision,Optimization,Intermediate
+How does Gradient Descent work? keep it simple.,Explanation,Gradient Descent,Beginner
+Why does CNN fail? in depth detail.,Doubt clarification,CNN,Advanced
+Give me an example of Transformers. keep it simple.,Example,Transformers,Beginner
+Clarify Computer Vision for me.,Doubt clarification,Computer Vision,Intermediate
+Key points of Computer Vision. in depth detail.,Revision,Computer Vision,Advanced
+Summary of RNN. keep it simple.,Revision,RNN,Beginner
+I am stuck on Neural Networks.,Doubt clarification,Neural Networks,Intermediate
+Revise Natural Language Processing quickly.,Revision,Natural Language Processing,Intermediate
+Why does Gradient Descent fail? in depth detail.,Doubt clarification,Gradient Descent,Advanced
+Key points of Reinforcement Learning.,Revision,Reinforcement Learning,Intermediate
+Define Reinforcement Learning.,Explanation,Reinforcement Learning,Intermediate
+How does Gradient Descent work? keep it simple.,Explanation,Gradient Descent,Beginner
+Confusion about Transformers. keep it simple.,Doubt clarification,Transformers,Beginner
+Demonstrate Transformers with an example. keep it simple.,Example,Transformers,Beginner
+Show me a use case for Reinforcement Learning.,Example,Reinforcement Learning,Intermediate
+Can you describe Reinforcement Learning? keep it simple.,Explanation,Reinforcement Learning,Beginner
+Show me a use case for Optimization.,Example,Optimization,Intermediate
+Code example for CNN. in depth detail.,Example,CNN,Advanced
+Real world example of Neural Networks. in depth detail.,Example,Neural Networks,Advanced
+I am stuck on Neural Networks. in depth detail.,Doubt clarification,Neural Networks,Advanced
+Code example for Neural Networks. in depth detail.,Example,Neural Networks,Advanced
+Explain different types of Gradient Descent.,Explanation,Gradient Descent,Intermediate
+Demonstrate Transformers with an example. in depth detail.,Example,Transformers,Advanced
+Why do we use Natural Language Processing? in depth detail.,Doubt clarification,Natural Language Processing,Advanced
+Tell me about Reinforcement Learning. keep it simple.,Explanation,Reinforcement Learning,Beginner
+Important concepts in Transformers. keep it simple.,Revision,Transformers,Beginner
+Summary of Gradient Descent. keep it simple.,Revision,Gradient Descent,Beginner
+Key points of Transformers.,Revision,Transformers,Intermediate
+Explain different types of Neural Networks. in depth detail.,Explanation,Neural Networks,Advanced
+Demonstrate CNN with an example.,Example,CNN,Intermediate
+What is Natural Language Processing?,Explanation,Natural Language Processing,Intermediate
+What is Computer Vision? in depth detail.,Explanation,Computer Vision,Advanced
+Explain different types of Computer Vision.,Explanation,Computer Vision,Intermediate
+Show me a use case for Natural Language Processing. in depth detail.,Example,Natural Language Processing,Advanced
+What is the difference between Neural Networks and other method?,Doubt clarification,Neural Networks,Intermediate
+Why do we use RNN? keep it simple.,Doubt clarification,RNN,Beginner
+What is Optimization?,Explanation,Optimization,Intermediate
+Revise CNN quickly. keep it simple.,Revision,CNN,Beginner
+Summary of Reinforcement Learning.,Revision,Reinforcement Learning,Intermediate
+Is Gradient Descent better than others? keep it simple.,Doubt clarification,Gradient Descent,Beginner
+Show me a use case for Optimization. keep it simple.,Example,Optimization,Beginner
+Why does Backpropagation fail? in depth detail.,Doubt clarification,Backpropagation,Advanced
+Real world example of Natural Language Processing. keep it simple.,Example,Natural Language Processing,Beginner
+Confusion about RNN. keep it simple.,Doubt clarification,RNN,Beginner
+Review Backpropagation.,Revision,Backpropagation,Intermediate
+Confusion about Gradient Descent. keep it simple.,Doubt clarification,Gradient Descent,Beginner
+Review Backpropagation.,Revision,Backpropagation,Intermediate
+Why do we use Backpropagation? in depth detail.,Doubt clarification,Backpropagation,Advanced
+Practical application of Transformers? keep it simple.,Example,Transformers,Beginner
+Revise RNN quickly. keep it simple.,Revision,RNN,Beginner
+Is Optimization better than others? keep it simple.,Doubt clarification,Optimization,Beginner
+Real world example of Neural Networks.,Example,Neural Networks,Intermediate
+Code example for CNN. keep it simple.,Example,CNN,Beginner
+Code example for Backpropagation. keep it simple.,Example,Backpropagation,Beginner
+Demonstrate RNN with an example. in depth detail.,Example,RNN,Advanced
+Explain different types of CNN. in depth detail.,Explanation,CNN,Advanced
+How does Optimization work?,Explanation,Optimization,Intermediate
+Revise Neural Networks quickly. keep it simple.,Revision,Neural Networks,Beginner
+Why does Transformers fail?,Doubt clarification,Transformers,Intermediate
+Real world example of Neural Networks. keep it simple.,Example,Neural Networks,Beginner
+Important concepts in RNN. in depth detail.,Revision,RNN,Advanced
+Why do we use Backpropagation? in depth detail.,Doubt clarification,Backpropagation,Advanced
+Show me a use case for RNN.,Example,RNN,Intermediate
+Tell me about Reinforcement Learning. keep it simple.,Explanation,Reinforcement Learning,Beginner
+Recap Optimization.,Revision,Optimization,Intermediate
+Why does Natural Language Processing fail?,Doubt clarification,Natural Language Processing,Intermediate
+Meaning of Neural Networks? in depth detail.,Explanation,Neural Networks,Advanced
+Tell me about Transformers. keep it simple.,Explanation,Transformers,Beginner
+I am stuck on Optimization. in depth detail.,Doubt clarification,Optimization,Advanced
+Show me a use case for Optimization. in depth detail.,Example,Optimization,Advanced
+Revise Reinforcement Learning quickly.,Revision,Reinforcement Learning,Intermediate
+Why does Backpropagation fail? keep it simple.,Doubt clarification,Backpropagation,Beginner
+Confusion about Optimization. keep it simple.,Doubt clarification,Optimization,Beginner
+Practical application of Backpropagation? in depth detail.,Example,Backpropagation,Advanced
+I am stuck on Reinforcement Learning. keep it simple.,Doubt clarification,Reinforcement Learning,Beginner
+Code example for CNN. in depth detail.,Example,CNN,Advanced
+Why does Computer Vision fail? in depth detail.,Doubt clarification,Computer Vision,Advanced
+Key points of Transformers. in depth detail.,Revision,Transformers,Advanced
+Revise Gradient Descent quickly.,Revision,Gradient Descent,Intermediate
+Can you describe RNN? in depth detail.,Explanation,RNN,Advanced
+I am stuck on Optimization. in depth detail.,Doubt clarification,Optimization,Advanced
+What is Optimization?,Explanation,Optimization,Intermediate
+Explain different types of Backpropagation. keep it simple.,Explanation,Backpropagation,Beginner
+What is Gradient Descent? in depth detail.,Explanation,Gradient Descent,Advanced
+Tell me about Reinforcement Learning.,Explanation,Reinforcement Learning,Intermediate
+Review Reinforcement Learning. in depth detail.,Revision,Reinforcement Learning,Advanced
+Important concepts in Reinforcement Learning.,Revision,Reinforcement Learning,Intermediate
+How does Reinforcement Learning work? keep it simple.,Explanation,Reinforcement Learning,Beginner
+Recap Reinforcement Learning.,Revision,Reinforcement Learning,Intermediate
+Define CNN. in depth detail.,Explanation,CNN,Advanced
+Key points of Optimization. in depth detail.,Revision,Optimization,Advanced
+Practical application of CNN? keep it simple.,Example,CNN,Beginner
+Define Gradient Descent. keep it simple.,Explanation,Gradient Descent,Beginner
+Why do we use Reinforcement Learning?,Doubt clarification,Reinforcement Learning,Intermediate
+Explain different types of Reinforcement Learning. keep it simple.,Explanation,Reinforcement Learning,Beginner
+Clarify Optimization for me. keep it simple.,Doubt clarification,Optimization,Beginner
+Real world example of CNN. keep it simple.,Example,CNN,Beginner
+Why do we use CNN? in depth detail.,Doubt clarification,CNN,Advanced
+I am stuck on Reinforcement Learning. in depth detail.,Doubt clarification,Reinforcement Learning,Advanced
+Summary of CNN. in depth detail.,Revision,CNN,Advanced
+Can you describe Computer Vision?,Explanation,Computer Vision,Intermediate
+What is Neural Networks? in depth detail.,Explanation,Neural Networks,Advanced
+Define Neural Networks.,Explanation,Neural Networks,Intermediate
+Give me an example of Reinforcement Learning. keep it simple.,Example,Reinforcement Learning,Beginner
+Recap Reinforcement Learning. in depth detail.,Revision,Reinforcement Learning,Advanced
+Confusion about Neural Networks. in depth detail.,Doubt clarification,Neural Networks,Advanced
+Review Computer Vision. keep it simple.,Revision,Computer Vision,Beginner
+Real world example of Reinforcement Learning.,Example,Reinforcement Learning,Intermediate
+Review Computer Vision. keep it simple.,Revision,Computer Vision,Beginner
+Revise Transformers quickly. in depth detail.,Revision,Transformers,Advanced
+I am stuck on Natural Language Processing. keep it simple.,Doubt clarification,Natural Language Processing,Beginner
+Review Computer Vision.,Revision,Computer Vision,Intermediate
+Define Natural Language Processing.,Explanation,Natural Language Processing,Intermediate
+What is the difference between Backpropagation and other method?,Doubt clarification,Backpropagation,Intermediate
+Is Optimization better than others? keep it simple.,Doubt clarification,Optimization,Beginner
+Review Optimization. in depth detail.,Revision,Optimization,Advanced
+Key points of Computer Vision. in depth detail.,Revision,Computer Vision,Advanced
+Revise Neural Networks quickly.,Revision,Neural Networks,Intermediate
+Why do we use Computer Vision? in depth detail.,Doubt clarification,Computer Vision,Advanced
+Why does Natural Language Processing fail? in depth detail.,Doubt clarification,Natural Language Processing,Advanced
+Real world example of RNN. keep it simple.,Example,RNN,Beginner
+Key points of RNN.,Revision,RNN,Intermediate
+Is Computer Vision better than others? in depth detail.,Doubt clarification,Computer Vision,Advanced
+Confusion about Reinforcement Learning. keep it simple.,Doubt clarification,Reinforcement Learning,Beginner
+I don't understand Neural Networks.,Explanation,Neural Networks,Intermediate
+Key points of Neural Networks.,Revision,Neural Networks,Intermediate
+Define RNN. in depth detail.,Explanation,RNN,Advanced
+I don't understand Backpropagation. keep it simple.,Explanation,Backpropagation,Beginner
+Important concepts in Transformers.,Revision,Transformers,Intermediate
+What is the difference between Computer Vision and other method? keep it simple.,Doubt clarification,Computer Vision,Beginner
+I don't understand Natural Language Processing. in depth detail.,Explanation,Natural Language Processing,Advanced
+Meaning of Backpropagation? keep it simple.,Explanation,Backpropagation,Beginner
+Give me an example of Optimization.,Example,Optimization,Intermediate
+What is Natural Language Processing?,Explanation,Natural Language Processing,Intermediate
+I am stuck on Gradient Descent. keep it simple.,Doubt clarification,Gradient Descent,Beginner
+Code example for Backpropagation. in depth detail.,Example,Backpropagation,Advanced
+Clarify Neural Networks for me.,Doubt clarification,Neural Networks,Intermediate
+I am stuck on Reinforcement Learning. keep it simple.,Doubt clarification,Reinforcement Learning,Beginner
+Why do we use Transformers? keep it simple.,Doubt clarification,Transformers,Beginner
+Meaning of Transformers? in depth detail.,Explanation,Transformers,Advanced
+Show me a use case for Gradient Descent. keep it simple.,Example,Gradient Descent,Beginner
+Practical application of Natural Language Processing?,Example,Natural Language Processing,Intermediate
+Give me an example of Computer Vision. keep it simple.,Example,Computer Vision,Beginner
+Demonstrate Optimization with an example. keep it simple.,Example,Optimization,Beginner
+Revise Backpropagation quickly.,Revision,Backpropagation,Intermediate
+Code example for Backpropagation. keep it simple.,Example,Backpropagation,Beginner
+Explain different types of Gradient Descent. keep it simple.,Explanation,Gradient Descent,Beginner
+What is Neural Networks?,Explanation,Neural Networks,Intermediate
+What is Reinforcement Learning? in depth detail.,Explanation,Reinforcement Learning,Advanced
+Give me an example of Backpropagation. keep it simple.,Example,Backpropagation,Beginner
+Key points of Reinforcement Learning.,Revision,Reinforcement Learning,Intermediate
+What is the difference between Natural Language Processing and other method?,Doubt clarification,Natural Language Processing,Intermediate
+I don't understand Optimization. keep it simple.,Explanation,Optimization,Beginner
+Practical application of Optimization? keep it simple.,Example,Optimization,Beginner
+Meaning of Backpropagation?,Explanation,Backpropagation,Intermediate
+Can you describe Transformers? in depth detail.,Explanation,Transformers,Advanced
+What is Transformers? in depth detail.,Explanation,Transformers,Advanced
+Summary of Transformers. in depth detail.,Revision,Transformers,Advanced
+What is the difference between Neural Networks and other method?,Doubt clarification,Neural Networks,Intermediate
+Clarify CNN for me. in depth detail.,Doubt clarification,CNN,Advanced
+Recap Reinforcement Learning. keep it simple.,Revision,Reinforcement Learning,Beginner
+Review Backpropagation.,Revision,Backpropagation,Intermediate
+Recap Gradient Descent. in depth detail.,Revision,Gradient Descent,Advanced
+Review Backpropagation.,Revision,Backpropagation,Intermediate
+Give me an example of Reinforcement Learning.,Example,Reinforcement Learning,Intermediate
+Practical application of Natural Language Processing? keep it simple.,Example,Natural Language Processing,Beginner
+Tell me about CNN. keep it simple.,Explanation,CNN,Beginner
+Explain different types of RNN.,Explanation,RNN,Intermediate
+Define Reinforcement Learning.,Explanation,Reinforcement Learning,Intermediate
+Clarify RNN for me. keep it simple.,Doubt clarification,RNN,Beginner
+Confusion about Optimization. in depth detail.,Doubt clarification,Optimization,Advanced
+Review CNN.,Revision,CNN,Intermediate
+Important concepts in Reinforcement Learning. in depth detail.,Revision,Reinforcement Learning,Advanced
+Demonstrate Natural Language Processing with an example. keep it simple.,Example,Natural Language Processing,Beginner
+Can you describe Transformers? keep it simple.,Explanation,Transformers,Beginner
+Key points of Optimization. keep it simple.,Revision,Optimization,Beginner
+Real world example of Optimization. keep it simple.,Example,Optimization,Beginner
+Why does Natural Language Processing fail? in depth detail.,Doubt clarification,Natural Language Processing,Advanced
+I am stuck on Gradient Descent. in depth detail.,Doubt clarification,Gradient Descent,Advanced
+Key points of Natural Language Processing.,Revision,Natural Language Processing,Intermediate
+I don't understand Natural Language Processing. keep it simple.,Explanation,Natural Language Processing,Beginner
+What is RNN? keep it simple.,Explanation,RNN,Beginner
+Review Reinforcement Learning. keep it simple.,Revision,Reinforcement Learning,Beginner
+Code example for Computer Vision. in depth detail.,Example,Computer Vision,Advanced
+Define Neural Networks. keep it simple.,Explanation,Neural Networks,Beginner
+Clarify Transformers for me.,Doubt clarification,Transformers,Intermediate
+Give me an example of Backpropagation. in depth detail.,Example,Backpropagation,Advanced
+Real world example of Computer Vision.,Example,Computer Vision,Intermediate
+Show me a use case for Natural Language Processing. keep it simple.,Example,Natural Language Processing,Beginner
+Explain different types of Neural Networks.,Explanation,Neural Networks,Intermediate
+Key points of Reinforcement Learning. in depth detail.,Revision,Reinforcement Learning,Advanced
+Tell me about Reinforcement Learning. in depth detail.,Explanation,Reinforcement Learning,Advanced
+How does Transformers work? keep it simple.,Explanation,Transformers,Beginner
+Real world example of CNN. keep it simple.,Example,CNN,Beginner
+Is Transformers better than others? keep it simple.,Doubt clarification,Transformers,Beginner
+What is Optimization?,Explanation,Optimization,Intermediate
+Why do we use Computer Vision?,Doubt clarification,Computer Vision,Intermediate
+Recap RNN. keep it simple.,Revision,RNN,Beginner
+Recap Backpropagation.,Revision,Backpropagation,Intermediate
+I am stuck on Transformers. in depth detail.,Doubt clarification,Transformers,Advanced
+Can you describe Gradient Descent? keep it simple.,Explanation,Gradient Descent,Beginner
+Key points of Natural Language Processing.,Revision,Natural Language Processing,Intermediate
+Revise Reinforcement Learning quickly. in depth detail.,Revision,Reinforcement Learning,Advanced
+I am stuck on Transformers. in depth detail.,Doubt clarification,Transformers,Advanced
+Show me a use case for Computer Vision.,Example,Computer Vision,Intermediate
+Give me an example of CNN. in depth detail.,Example,CNN,Advanced
+Can you describe Backpropagation?,Explanation,Backpropagation,Intermediate
+Confusion about Computer Vision. keep it simple.,Doubt clarification,Computer Vision,Beginner
+Summary of CNN. keep it simple.,Revision,CNN,Beginner
+Give me an example of RNN. in depth detail.,Example,RNN,Advanced
+What is Reinforcement Learning? in depth detail.,Explanation,Reinforcement Learning,Advanced
+Tell me about Optimization. in depth detail.,Explanation,Optimization,Advanced
+Tell me about Reinforcement Learning. keep it simple.,Explanation,Reinforcement Learning,Beginner
+Recap Optimization. in depth detail.,Revision,Optimization,Advanced
+Revise Backpropagation quickly. in depth detail.,Revision,Backpropagation,Advanced
+Important concepts in Gradient Descent.,Revision,Gradient Descent,Intermediate
+Revise Reinforcement Learning quickly. in depth detail.,Revision,Reinforcement Learning,Advanced
+How does CNN work? keep it simple.,Explanation,CNN,Beginner
+Define RNN. in depth detail.,Explanation,RNN,Advanced
+Is Gradient Descent better than others? keep it simple.,Doubt clarification,Gradient Descent,Beginner
+Demonstrate RNN with an example. in depth detail.,Example,RNN,Advanced
+Meaning of Backpropagation?,Explanation,Backpropagation,Intermediate
+Real world example of Transformers. in depth detail.,Example,Transformers,Advanced
+Important concepts in Reinforcement Learning. in depth detail.,Revision,Reinforcement Learning,Advanced
+I don't understand Backpropagation.,Explanation,Backpropagation,Intermediate
+Is CNN better than others?,Doubt clarification,CNN,Intermediate
+Meaning of Transformers? in depth detail.,Explanation,Transformers,Advanced
+Key points of Optimization. in depth detail.,Revision,Optimization,Advanced
+What is Reinforcement Learning?,Explanation,Reinforcement Learning,Intermediate
+Give me an example of Transformers. in depth detail.,Example,Transformers,Advanced
+Clarify Backpropagation for me.,Doubt clarification,Backpropagation,Intermediate
+Code example for Computer Vision. in depth detail.,Example,Computer Vision,Advanced
+Code example for Natural Language Processing. keep it simple.,Example,Natural Language Processing,Beginner
+What is the difference between Reinforcement Learning and other method? in depth detail.,Doubt clarification,Reinforcement Learning,Advanced
+Practical application of Reinforcement Learning? keep it simple.,Example,Reinforcement Learning,Beginner
+Clarify Reinforcement Learning for me.,Doubt clarification,Reinforcement Learning,Intermediate
+Explain different types of Computer Vision. in depth detail.,Explanation,Computer Vision,Advanced
+How does Neural Networks work? in depth detail.,Explanation,Neural Networks,Advanced
+Demonstrate RNN with an example. keep it simple.,Example,RNN,Beginner
+I am stuck on CNN.,Doubt clarification,CNN,Intermediate
+Summary of Neural Networks.,Revision,Neural Networks,Intermediate
+Revise Gradient Descent quickly. keep it simple.,Revision,Gradient Descent,Beginner
+Meaning of Optimization?,Explanation,Optimization,Intermediate
+Give me an example of Gradient Descent. in depth detail.,Example,Gradient Descent,Advanced
+Practical application of Backpropagation? in depth detail.,Example,Backpropagation,Advanced
+Why does RNN fail? in depth detail.,Doubt clarification,RNN,Advanced
+Is Gradient Descent better than others? in depth detail.,Doubt clarification,Gradient Descent,Advanced
+What is Natural Language Processing? in depth detail.,Explanation,Natural Language Processing,Advanced
+How does Natural Language Processing work?,Explanation,Natural Language Processing,Intermediate
+Give me an example of Gradient Descent. in depth detail.,Example,Gradient Descent,Advanced
+How does RNN work?,Explanation,RNN,Intermediate
+Show me a use case for RNN.,Example,RNN,Intermediate
+Meaning of Transformers? in depth detail.,Explanation,Transformers,Advanced
+Confusion about Transformers. keep it simple.,Doubt clarification,Transformers,Beginner
+Code example for Reinforcement Learning. in depth detail.,Example,Reinforcement Learning,Advanced
+Real world example of RNN.,Example,RNN,Intermediate
+Define Neural Networks. keep it simple.,Explanation,Neural Networks,Beginner
+Practical application of Optimization? in depth detail.,Example,Optimization,Advanced
+Key points of Optimization. in depth detail.,Revision,Optimization,Advanced
+Real world example of Transformers. in depth detail.,Example,Transformers,Advanced
+Important concepts in Transformers.,Revision,Transformers,Intermediate
+Explain different types of RNN.,Explanation,RNN,Intermediate
+Summary of RNN. keep it simple.,Revision,RNN,Beginner
+Give me an example of Transformers. in depth detail.,Example,Transformers,Advanced
+Important concepts in Reinforcement Learning. in depth detail.,Revision,Reinforcement Learning,Advanced
+Revise Optimization quickly.,Revision,Optimization,Intermediate
+Important concepts in CNN. in depth detail.,Revision,CNN,Advanced
+Is Computer Vision better than others? in depth detail.,Doubt clarification,Computer Vision,Advanced
+Meaning of RNN? keep it simple.,Explanation,RNN,Beginner
+Why does Optimization fail? in depth detail.,Doubt clarification,Optimization,Advanced
+Tell me about Optimization.,Explanation,Optimization,Intermediate
+Revise Neural Networks quickly. keep it simple.,Revision,Neural Networks,Beginner
+What is the difference between Reinforcement Learning and other method?,Doubt clarification,Reinforcement Learning,Intermediate
+Confusion about Transformers. keep it simple.,Doubt clarification,Transformers,Beginner
+Why do we use Gradient Descent? keep it simple.,Doubt clarification,Gradient Descent,Beginner
+Meaning of Reinforcement Learning?,Explanation,Reinforcement Learning,Intermediate
+Demonstrate RNN with an example.,Example,RNN,Intermediate
+Clarify Backpropagation for me.,Doubt clarification,Backpropagation,Intermediate
+Is Neural Networks better than others? in depth detail.,Doubt clarification,Neural Networks,Advanced
+Define Reinforcement Learning. in depth detail.,Explanation,Reinforcement Learning,Advanced
+Confusion about Reinforcement Learning. in depth detail.,Doubt clarification,Reinforcement Learning,Advanced
+Important concepts in Transformers. keep it simple.,Revision,Transformers,Beginner
+I don't understand Backpropagation. keep it simple.,Explanation,Backpropagation,Beginner
+Why does Neural Networks fail? keep it simple.,Doubt clarification,Neural Networks,Beginner
+Practical application of Backpropagation?,Example,Backpropagation,Intermediate
+Clarify Backpropagation for me.,Doubt clarification,Backpropagation,Intermediate
+I don't understand Gradient Descent. keep it simple.,Explanation,Gradient Descent,Beginner
+Revise Backpropagation quickly. in depth detail.,Revision,Backpropagation,Advanced
+Review Gradient Descent.,Revision,Gradient Descent,Intermediate
+Clarify Computer Vision for me.,Doubt clarification,Computer Vision,Intermediate
+Review Neural Networks. keep it simple.,Revision,Neural Networks,Beginner
+Define RNN.,Explanation,RNN,Intermediate
+How does Computer Vision work? keep it simple.,Explanation,Computer Vision,Beginner
+Tell me about Backpropagation. keep it simple.,Explanation,Backpropagation,Beginner
+Key points of Gradient Descent. keep it simple.,Revision,Gradient Descent,Beginner
+Give me an example of Reinforcement Learning. in depth detail.,Example,Reinforcement Learning,Advanced
+Summary of Computer Vision.,Revision,Computer Vision,Intermediate
+Is Reinforcement Learning better than others?,Doubt clarification,Reinforcement Learning,Intermediate
+Real world example of Computer Vision.,Example,Computer Vision,Intermediate
+Practical application of RNN?,Example,RNN,Intermediate
+Real world example of Reinforcement Learning.,Example,Reinforcement Learning,Intermediate
+I don't understand Transformers. keep it simple.,Explanation,Transformers,Beginner
+Clarify Optimization for me.,Doubt clarification,Optimization,Intermediate
+Clarify Backpropagation for me.,Doubt clarification,Backpropagation,Intermediate
+Review Reinforcement Learning. in depth detail.,Revision,Reinforcement Learning,Advanced
+Why do we use Natural Language Processing? keep it simple.,Doubt clarification,Natural Language Processing,Beginner
+Tell me about Natural Language Processing. in depth detail.,Explanation,Natural Language Processing,Advanced
+Is Gradient Descent better than others?,Doubt clarification,Gradient Descent,Intermediate
+Important concepts in Natural Language Processing. keep it simple.,Revision,Natural Language Processing,Beginner
+Is Optimization better than others? keep it simple.,Doubt clarification,Optimization,Beginner
+Important concepts in Backpropagation.,Revision,Backpropagation,Intermediate
+I don't understand Reinforcement Learning.,Explanation,Reinforcement Learning,Intermediate
+Define Neural Networks.,Explanation,Neural Networks,Intermediate
+Demonstrate Computer Vision with an example. in depth detail.,Example,Computer Vision,Advanced
+Show me a use case for Optimization. keep it simple.,Example,Optimization,Beginner
+Demonstrate Computer Vision with an example. keep it simple.,Example,Computer Vision,Beginner
+How does RNN work? keep it simple.,Explanation,RNN,Beginner
+Practical application of RNN? in depth detail.,Example,RNN,Advanced
+Key points of Optimization. in depth detail.,Revision,Optimization,Advanced
+Why do we use Natural Language Processing? in depth detail.,Doubt clarification,Natural Language Processing,Advanced
+Why do we use Optimization? in depth detail.,Doubt clarification,Optimization,Advanced
+Why does Gradient Descent fail? in depth detail.,Doubt clarification,Gradient Descent,Advanced
+Meaning of Computer Vision?,Explanation,Computer Vision,Intermediate
+Code example for Neural Networks. keep it simple.,Example,Neural Networks,Beginner
+Why does Natural Language Processing fail? in depth detail.,Doubt clarification,Natural Language Processing,Advanced
+What is Transformers? in depth detail.,Explanation,Transformers,Advanced
+Summary of Backpropagation. in depth detail.,Revision,Backpropagation,Advanced
+Important concepts in RNN. in depth detail.,Revision,RNN,Advanced
+Give me an example of Reinforcement Learning. keep it simple.,Example,Reinforcement Learning,Beginner
+Demonstrate Natural Language Processing with an example. in depth detail.,Example,Natural Language Processing,Advanced
+Code example for Transformers.,Example,Transformers,Intermediate
+How does Neural Networks work? keep it simple.,Explanation,Neural Networks,Beginner
+Confusion about Gradient Descent. in depth detail.,Doubt clarification,Gradient Descent,Advanced
+Important concepts in Transformers. keep it simple.,Revision,Transformers,Beginner
+Can you describe Transformers? keep it simple.,Explanation,Transformers,Beginner
+Recap RNN. keep it simple.,Revision,RNN,Beginner
+How does Optimization work? keep it simple.,Explanation,Optimization,Beginner
+Why does Optimization fail? in depth detail.,Doubt clarification,Optimization,Advanced
+Is Backpropagation better than others?,Doubt clarification,Backpropagation,Intermediate
+Recap Optimization. keep it simple.,Revision,Optimization,Beginner
+Meaning of Computer Vision?,Explanation,Computer Vision,Intermediate
+Review Neural Networks. in depth detail.,Revision,Neural Networks,Advanced
+Demonstrate Computer Vision with an example.,Example,Computer Vision,Intermediate
+What is RNN?,Explanation,RNN,Intermediate
+Real world example of Gradient Descent.,Example,Gradient Descent,Intermediate
+Revise Neural Networks quickly.,Revision,Neural Networks,Intermediate
+What is Gradient Descent?,Explanation,Gradient Descent,Intermediate
+I am stuck on Backpropagation. in depth detail.,Doubt clarification,Backpropagation,Advanced
+Define Natural Language Processing.,Explanation,Natural Language Processing,Intermediate
+Give me an example of Backpropagation. in depth detail.,Example,Backpropagation,Advanced
+Can you describe Gradient Descent? in depth detail.,Explanation,Gradient Descent,Advanced
+Explain different types of Optimization. in depth detail.,Explanation,Optimization,Advanced
+Revise Reinforcement Learning quickly.,Revision,Reinforcement Learning,Intermediate
+Code example for Backpropagation. in depth detail.,Example,Backpropagation,Advanced
+Show me a use case for Gradient Descent.,Example,Gradient Descent,Intermediate
+Summary of Natural Language Processing. in depth detail.,Revision,Natural Language Processing,Advanced
+How does Backpropagation work? keep it simple.,Explanation,Backpropagation,Beginner
+Important concepts in Gradient Descent. keep it simple.,Revision,Gradient Descent,Beginner
+Why does Computer Vision fail? in depth detail.,Doubt clarification,Computer Vision,Advanced
+Meaning of Computer Vision? keep it simple.,Explanation,Computer Vision,Beginner
+How does Natural Language Processing work? keep it simple.,Explanation,Natural Language Processing,Beginner
+Revise Transformers quickly.,Revision,Transformers,Intermediate
+Confusion about Computer Vision. in depth detail.,Doubt clarification,Computer Vision,Advanced
+Key points of Computer Vision. in depth detail.,Revision,Computer Vision,Advanced
+Can you describe Neural Networks? in depth detail.,Explanation,Neural Networks,Advanced
+How does CNN work? keep it simple.,Explanation,CNN,Beginner
+Review Reinforcement Learning.,Revision,Reinforcement Learning,Intermediate
+Give me an example of Reinforcement Learning. keep it simple.,Example,Reinforcement Learning,Beginner
+Recap Backpropagation. keep it simple.,Revision,Backpropagation,Beginner
+Why do we use CNN? in depth detail.,Doubt clarification,CNN,Advanced
+Explain different types of Neural Networks. keep it simple.,Explanation,Neural Networks,Beginner
+Recap Transformers. keep it simple.,Revision,Transformers,Beginner
+Define Gradient Descent.,Explanation,Gradient Descent,Intermediate
+I am stuck on Computer Vision. in depth detail.,Doubt clarification,Computer Vision,Advanced
+Review Optimization.,Revision,Optimization,Intermediate
+What is the difference between Reinforcement Learning and other method? keep it simple.,Doubt clarification,Reinforcement Learning,Beginner
+Why does Reinforcement Learning fail?,Doubt clarification,Reinforcement Learning,Intermediate
+Real world example of Gradient Descent. in depth detail.,Example,Gradient Descent,Advanced
+Show me a use case for Natural Language Processing.,Example,Natural Language Processing,Intermediate
+Confusion about Reinforcement Learning.,Doubt clarification,Reinforcement Learning,Intermediate
+I don't understand Optimization. in depth detail.,Explanation,Optimization,Advanced
+Clarify CNN for me.,Doubt clarification,CNN,Intermediate
+What is the difference between Backpropagation and other method? in depth detail.,Doubt clarification,Backpropagation,Advanced
+What is RNN? keep it simple.,Explanation,RNN,Beginner
+Tell me about Gradient Descent. keep it simple.,Explanation,Gradient Descent,Beginner
+Important concepts in RNN.,Revision,RNN,Intermediate
+Can you describe Reinforcement Learning? keep it simple.,Explanation,Reinforcement Learning,Beginner
+Review Reinforcement Learning. keep it simple.,Revision,Reinforcement Learning,Beginner
+Key points of Computer Vision.,Revision,Computer Vision,Intermediate
+Summary of Neural Networks. keep it simple.,Revision,Neural Networks,Beginner
+I am stuck on Transformers. in depth detail.,Doubt clarification,Transformers,Advanced
+Give me an example of CNN. keep it simple.,Example,CNN,Beginner
+Demonstrate Neural Networks with an example. in depth detail.,Example,Neural Networks,Advanced
+Explain different types of RNN.,Explanation,RNN,Intermediate
+Meaning of Natural Language Processing?,Explanation,Natural Language Processing,Intermediate
+What is Reinforcement Learning? keep it simple.,Explanation,Reinforcement Learning,Beginner
+Can you describe RNN? in depth detail.,Explanation,RNN,Advanced
+What is the difference between Neural Networks and other method? in depth detail.,Doubt clarification,Neural Networks,Advanced
+How does Optimization work? in depth detail.,Explanation,Optimization,Advanced
+Practical application of RNN? in depth detail.,Example,RNN,Advanced
+Summary of Backpropagation.,Revision,Backpropagation,Intermediate
+What is the difference between Reinforcement Learning and other method? in depth detail.,Doubt clarification,Reinforcement Learning,Advanced
+I don't understand Neural Networks. in depth detail.,Explanation,Neural Networks,Advanced
+What is the difference between Reinforcement Learning and other method?,Doubt clarification,Reinforcement Learning,Intermediate
+Revise CNN quickly.,Revision,CNN,Intermediate
+Tell me about Computer Vision. keep it simple.,Explanation,Computer Vision,Beginner
+Is CNN better than others? in depth detail.,Doubt clarification,CNN,Advanced
+Tell me about Natural Language Processing.,Explanation,Natural Language Processing,Intermediate
+Meaning of RNN? keep it simple.,Explanation,RNN,Beginner
+Why do we use Transformers?,Doubt clarification,Transformers,Intermediate
+Demonstrate CNN with an example. in depth detail.,Example,CNN,Advanced
+Revise Neural Networks quickly.,Revision,Neural Networks,Intermediate
+I am stuck on Gradient Descent. keep it simple.,Doubt clarification,Gradient Descent,Beginner
+Revise Natural Language Processing quickly. in depth detail.,Revision,Natural Language Processing,Advanced
+Summary of CNN. in depth detail.,Revision,CNN,Advanced
+What is the difference between CNN and other method? in depth detail.,Doubt clarification,CNN,Advanced
+Revise Natural Language Processing quickly. in depth detail.,Revision,Natural Language Processing,Advanced
+Why do we use Gradient Descent?,Doubt clarification,Gradient Descent,Intermediate
+Clarify Transformers for me. keep it simple.,Doubt clarification,Transformers,Beginner
+Code example for Gradient Descent.,Example,Gradient Descent,Intermediate
+Real world example of Reinforcement Learning. in depth detail.,Example,Reinforcement Learning,Advanced
+Explain different types of RNN.,Explanation,RNN,Intermediate
+Practical application of Neural Networks? keep it simple.,Example,Neural Networks,Beginner
+Recap Neural Networks.,Revision,Neural Networks,Intermediate
+I am stuck on Transformers. in depth detail.,Doubt clarification,Transformers,Advanced
+Confusion about Natural Language Processing. keep it simple.,Doubt clarification,Natural Language Processing,Beginner
+Is Computer Vision better than others? in depth detail.,Doubt clarification,Computer Vision,Advanced
+Real world example of Optimization. keep it simple.,Example,Optimization,Beginner
+Clarify CNN for me.,Doubt clarification,CNN,Intermediate
+Important concepts in Optimization. in depth detail.,Revision,Optimization,Advanced
+Why does Gradient Descent fail?,Doubt clarification,Gradient Descent,Intermediate
+Why does Neural Networks fail? in depth detail.,Doubt clarification,Neural Networks,Advanced
+Summary of Optimization.,Revision,Optimization,Intermediate
+Can you describe Computer Vision?,Explanation,Computer Vision,Intermediate
+Tell me about Backpropagation.,Explanation,Backpropagation,Intermediate
+Explain different types of Optimization. keep it simple.,Explanation,Optimization,Beginner
+Clarify Computer Vision for me. in depth detail.,Doubt clarification,Computer Vision,Advanced
+Important concepts in Computer Vision.,Revision,Computer Vision,Intermediate
+Revise Backpropagation quickly.,Revision,Backpropagation,Intermediate
+Meaning of CNN? in depth detail.,Explanation,CNN,Advanced
+I don't understand Reinforcement Learning. keep it simple.,Explanation,Reinforcement Learning,Beginner
+Show me a use case for Backpropagation. in depth detail.,Example,Backpropagation,Advanced
+Clarify Transformers for me.,Doubt clarification,Transformers,Intermediate
+Explain different types of Optimization. keep it simple.,Explanation,Optimization,Beginner
+Explain different types of Optimization. in depth detail.,Explanation,Optimization,Advanced
+Why do we use Neural Networks? in depth detail.,Doubt clarification,Neural Networks,Advanced
+Clarify RNN for me.,Doubt clarification,RNN,Intermediate
+Why does Gradient Descent fail? in depth detail.,Doubt clarification,Gradient Descent,Advanced
+Why does Backpropagation fail?,Doubt clarification,Backpropagation,Intermediate
+Why do we use Computer Vision? keep it simple.,Doubt clarification,Computer Vision,Beginner
+Practical application of Optimization? keep it simple.,Example,Optimization,Beginner
+Review CNN. in depth detail.,Revision,CNN,Advanced
+Revise Backpropagation quickly.,Revision,Backpropagation,Intermediate
+How does Computer Vision work?,Explanation,Computer Vision,Intermediate
+Recap Backpropagation.,Revision,Backpropagation,Intermediate
+Key points of Optimization.,Revision,Optimization,Intermediate
+Meaning of Gradient Descent? in depth detail.,Explanation,Gradient Descent,Advanced
+What is Gradient Descent? in depth detail.,Explanation,Gradient Descent,Advanced
+Define CNN. in depth detail.,Explanation,CNN,Advanced
+Why does CNN fail?,Doubt clarification,CNN,Intermediate
+How does Gradient Descent work?,Explanation,Gradient Descent,Intermediate
+Key points of Gradient Descent.,Revision,Gradient Descent,Intermediate
+Tell me about Neural Networks. in depth detail.,Explanation,Neural Networks,Advanced
+Can you describe Natural Language Processing?,Explanation,Natural Language Processing,Intermediate
+Clarify Optimization for me.,Doubt clarification,Optimization,Intermediate
+Real world example of Gradient Descent. keep it simple.,Example,Gradient Descent,Beginner
+I don't understand Gradient Descent.,Explanation,Gradient Descent,Intermediate
+Why does RNN fail? in depth detail.,Doubt clarification,RNN,Advanced
+Give me an example of Computer Vision. in depth detail.,Example,Computer Vision,Advanced
+Meaning of CNN? keep it simple.,Explanation,CNN,Beginner
+Clarify RNN for me.,Doubt clarification,RNN,Intermediate
+Meaning of Backpropagation?,Explanation,Backpropagation,Intermediate
+Revise Backpropagation quickly. keep it simple.,Revision,Backpropagation,Beginner
+Define RNN. keep it simple.,Explanation,RNN,Beginner
+Is RNN better than others?,Doubt clarification,RNN,Intermediate
+Tell me about RNN. in depth detail.,Explanation,RNN,Advanced
+Practical application of Optimization? in depth detail.,Example,Optimization,Advanced
+Can you describe Optimization? keep it simple.,Explanation,Optimization,Beginner
+Why does CNN fail? keep it simple.,Doubt clarification,CNN,Beginner
+Confusion about Optimization. keep it simple.,Doubt clarification,Optimization,Beginner
+I don't understand Backpropagation. keep it simple.,Explanation,Backpropagation,Beginner
+Demonstrate Reinforcement Learning with an example.,Example,Reinforcement Learning,Intermediate
+Why do we use Transformers? keep it simple.,Doubt clarification,Transformers,Beginner
+Define Backpropagation. keep it simple.,Explanation,Backpropagation,Beginner
+Clarify Natural Language Processing for me.,Doubt clarification,Natural Language Processing,Intermediate
+What is Natural Language Processing?,Explanation,Natural Language Processing,Intermediate
+Clarify Neural Networks for me. in depth detail.,Doubt clarification,Neural Networks,Advanced
+Give me an example of Gradient Descent.,Example,Gradient Descent,Intermediate
+I am stuck on Transformers. keep it simple.,Doubt clarification,Transformers,Beginner
+I am stuck on Reinforcement Learning. in depth detail.,Doubt clarification,Reinforcement Learning,Advanced
+I don't understand Gradient Descent.,Explanation,Gradient Descent,Intermediate
+Demonstrate Neural Networks with an example.,Example,Neural Networks,Intermediate
+How does Neural Networks work? keep it simple.,Explanation,Neural Networks,Beginner
+Define CNN. keep it simple.,Explanation,CNN,Beginner
+Give me an example of Natural Language Processing. in depth detail.,Example,Natural Language Processing,Advanced
+Demonstrate Natural Language Processing with an example. in depth detail.,Example,Natural Language Processing,Advanced
+Real world example of Gradient Descent. in depth detail.,Example,Gradient Descent,Advanced
+Revise Optimization quickly.,Revision,Optimization,Intermediate
+How does CNN work?,Explanation,CNN,Intermediate
+Give me an example of Reinforcement Learning. in depth detail.,Example,Reinforcement Learning,Advanced
+Meaning of Neural Networks? in depth detail.,Explanation,Neural Networks,Advanced
+Code example for RNN. in depth detail.,Example,RNN,Advanced
+I am stuck on Optimization. in depth detail.,Doubt clarification,Optimization,Advanced
+I don't understand Transformers.,Explanation,Transformers,Intermediate
+Recap Computer Vision.,Revision,Computer Vision,Intermediate
+Code example for CNN. in depth detail.,Example,CNN,Advanced
+Key points of Reinforcement Learning. keep it simple.,Revision,Reinforcement Learning,Beginner
+What is Backpropagation? keep it simple.,Explanation,Backpropagation,Beginner
+How does CNN work? in depth detail.,Explanation,CNN,Advanced
+What is the difference between Transformers and other method? keep it simple.,Doubt clarification,Transformers,Beginner
+Why do we use RNN? in depth detail.,Doubt clarification,RNN,Advanced
+Meaning of CNN? keep it simple.,Explanation,CNN,Beginner
+What is Transformers?,Explanation,Transformers,Intermediate
+Meaning of CNN?,Explanation,CNN,Intermediate
+Why do we use Transformers? in depth detail.,Doubt clarification,Transformers,Advanced
+Define Reinforcement Learning. keep it simple.,Explanation,Reinforcement Learning,Beginner
+Clarify Backpropagation for me. in depth detail.,Doubt clarification,Backpropagation,Advanced
+Give me an example of RNN.,Example,RNN,Intermediate
+How does CNN work? keep it simple.,Explanation,CNN,Beginner
+Revise Optimization quickly.,Revision,Optimization,Intermediate
+Is Gradient Descent better than others? keep it simple.,Doubt clarification,Gradient Descent,Beginner
+I am stuck on Natural Language Processing. in depth detail.,Doubt clarification,Natural Language Processing,Advanced
+Summary of Gradient Descent.,Revision,Gradient Descent,Intermediate
+Is Computer Vision better than others? keep it simple.,Doubt clarification,Computer Vision,Beginner
+Summary of Natural Language Processing. in depth detail.,Revision,Natural Language Processing,Advanced
+Why does Natural Language Processing fail? in depth detail.,Doubt clarification,Natural Language Processing,Advanced
+Revise Natural Language Processing quickly. in depth detail.,Revision,Natural Language Processing,Advanced
+Explain different types of Backpropagation.,Explanation,Backpropagation,Intermediate
+Important concepts in Transformers. in depth detail.,Revision,Transformers,Advanced
+Explain different types of Gradient Descent.,Explanation,Gradient Descent,Intermediate
+Practical application of Natural Language Processing?,Example,Natural Language Processing,Intermediate
+Clarify CNN for me. in depth detail.,Doubt clarification,CNN,Advanced
+Why do we use Reinforcement Learning?,Doubt clarification,Reinforcement Learning,Intermediate
+Can you describe Reinforcement Learning? in depth detail.,Explanation,Reinforcement Learning,Advanced
+Important concepts in Reinforcement Learning. in depth detail.,Revision,Reinforcement Learning,Advanced
+Real world example of Neural Networks.,Example,Neural Networks,Intermediate
+Code example for Gradient Descent.,Example,Gradient Descent,Intermediate
+How does RNN work? keep it simple.,Explanation,RNN,Beginner
+Is Reinforcement Learning better than others? in depth detail.,Doubt clarification,Reinforcement Learning,Advanced
+Practical application of Neural Networks? keep it simple.,Example,Neural Networks,Beginner
+Recap Transformers.,Revision,Transformers,Intermediate
+What is the difference between Neural Networks and other method?,Doubt clarification,Neural Networks,Intermediate
+How does Transformers work?,Explanation,Transformers,Intermediate
+Recap Computer Vision. keep it simple.,Revision,Computer Vision,Beginner
+How does Backpropagation work?,Explanation,Backpropagation,Intermediate
+What is the difference between CNN and other method? in depth detail.,Doubt clarification,CNN,Advanced
+Can you describe Reinforcement Learning? keep it simple.,Explanation,Reinforcement Learning,Beginner
+Code example for Neural Networks. keep it simple.,Example,Neural Networks,Beginner
+Review CNN.,Revision,CNN,Intermediate
+Why does RNN fail?,Doubt clarification,RNN,Intermediate
+I don't understand Computer Vision. keep it simple.,Explanation,Computer Vision,Beginner
+Can you describe Transformers? keep it simple.,Explanation,Transformers,Beginner
+Confusion about Neural Networks. in depth detail.,Doubt clarification,Neural Networks,Advanced
+Revise Neural Networks quickly. in depth detail.,Revision,Neural Networks,Advanced
+Why do we use Reinforcement Learning? keep it simple.,Doubt clarification,Reinforcement Learning,Beginner
+Explain different types of RNN.,Explanation,RNN,Intermediate
+Define Neural Networks. keep it simple.,Explanation,Neural Networks,Beginner
+Important concepts in Reinforcement Learning. in depth detail.,Revision,Reinforcement Learning,Advanced
+Summary of Gradient Descent. in depth detail.,Revision,Gradient Descent,Advanced
+Is Reinforcement Learning better than others?,Doubt clarification,Reinforcement Learning,Intermediate
+Show me a use case for Gradient Descent. in depth detail.,Example,Gradient Descent,Advanced
+Summary of Neural Networks. keep it simple.,Revision,Neural Networks,Beginner
+Revise Reinforcement Learning quickly. keep it simple.,Revision,Reinforcement Learning,Beginner
+Define Backpropagation. keep it simple.,Explanation,Backpropagation,Beginner
+Why do we use Gradient Descent?,Doubt clarification,Gradient Descent,Intermediate
+Define Optimization. in depth detail.,Explanation,Optimization,Advanced
+Is CNN better than others?,Doubt clarification,CNN,Intermediate
+Practical application of Optimization?,Example,Optimization,Intermediate
+Key points of Transformers. keep it simple.,Revision,Transformers,Beginner
+Important concepts in RNN.,Revision,RNN,Intermediate
+I am stuck on Natural Language Processing.,Doubt clarification,Natural Language Processing,Intermediate
+Real world example of Computer Vision. keep it simple.,Example,Computer Vision,Beginner
+Review Neural Networks. keep it simple.,Revision,Neural Networks,Beginner
+Practical application of Reinforcement Learning? keep it simple.,Example,Reinforcement Learning,Beginner
+Practical application of Gradient Descent?,Example,Gradient Descent,Intermediate
+Review Natural Language Processing.,Revision,Natural Language Processing,Intermediate
+Code example for CNN. keep it simple.,Example,CNN,Beginner
+Important concepts in Natural Language Processing.,Revision,Natural Language Processing,Intermediate
+Code example for Backpropagation. in depth detail.,Example,Backpropagation,Advanced
+Summary of Neural Networks. keep it simple.,Revision,Neural Networks,Beginner
+Review Gradient Descent. keep it simple.,Revision,Gradient Descent,Beginner
+Give me an example of Gradient Descent.,Example,Gradient Descent,Intermediate
+Is Gradient Descent better than others? in depth detail.,Doubt clarification,Gradient Descent,Advanced
+Recap Gradient Descent. keep it simple.,Revision,Gradient Descent,Beginner
+Why does Reinforcement Learning fail? in depth detail.,Doubt clarification,Reinforcement Learning,Advanced
+Important concepts in Natural Language Processing. in depth detail.,Revision,Natural Language Processing,Advanced
+Revise Backpropagation quickly.,Revision,Backpropagation,Intermediate
+Code example for CNN. in depth detail.,Example,CNN,Advanced
+Define RNN.,Explanation,RNN,Intermediate
+Why does Neural Networks fail?,Doubt clarification,Neural Networks,Intermediate
+How does Natural Language Processing work? in depth detail.,Explanation,Natural Language Processing,Advanced
+How does Reinforcement Learning work? in depth detail.,Explanation,Reinforcement Learning,Advanced
+Demonstrate Neural Networks with an example. in depth detail.,Example,Neural Networks,Advanced
+Why do we use Transformers?,Doubt clarification,Transformers,Intermediate
+Code example for Reinforcement Learning. in depth detail.,Example,Reinforcement Learning,Advanced
+Clarify Computer Vision for me.,Doubt clarification,Computer Vision,Intermediate
+What is the difference between Optimization and other method? keep it simple.,Doubt clarification,Optimization,Beginner
+I am stuck on Natural Language Processing.,Doubt clarification,Natural Language Processing,Intermediate
+Confusion about Natural Language Processing. in depth detail.,Doubt clarification,Natural Language Processing,Advanced
+Important concepts in Neural Networks.,Revision,Neural Networks,Intermediate
+Give me an example of RNN.,Example,RNN,Intermediate
+Meaning of Gradient Descent? keep it simple.,Explanation,Gradient Descent,Beginner
+Give me an example of Natural Language Processing. keep it simple.,Example,Natural Language Processing,Beginner
+Can you describe Computer Vision? keep it simple.,Explanation,Computer Vision,Beginner
+Show me a use case for Optimization. in depth detail.,Example,Optimization,Advanced
+Demonstrate Computer Vision with an example. in depth detail.,Example,Computer Vision,Advanced
+How does Backpropagation work?,Explanation,Backpropagation,Intermediate
+Meaning of RNN?,Explanation,RNN,Intermediate
+What is the difference between Natural Language Processing and other method?,Doubt clarification,Natural Language Processing,Intermediate
+Important concepts in Optimization. keep it simple.,Revision,Optimization,Beginner
+Code example for RNN.,Example,RNN,Intermediate
+Is Backpropagation better than others?,Doubt clarification,Backpropagation,Intermediate
+Practical application of RNN?,Example,RNN,Intermediate
+Clarify CNN for me. in depth detail.,Doubt clarification,CNN,Advanced
+Review Natural Language Processing. keep it simple.,Revision,Natural Language Processing,Beginner
+Review Optimization. keep it simple.,Revision,Optimization,Beginner
+Recap Reinforcement Learning. keep it simple.,Revision,Reinforcement Learning,Beginner
+Code example for RNN. keep it simple.,Example,RNN,Beginner
+Show me a use case for Neural Networks. in depth detail.,Example,Neural Networks,Advanced
+Give me an example of CNN. keep it simple.,Example,CNN,Beginner
+Review Reinforcement Learning.,Revision,Reinforcement Learning,Intermediate
+Key points of Transformers. keep it simple.,Revision,Transformers,Beginner
+Summary of Computer Vision.,Revision,Computer Vision,Intermediate
+Why does Backpropagation fail? keep it simple.,Doubt clarification,Backpropagation,Beginner
+I am stuck on CNN.,Doubt clarification,CNN,Intermediate
+Can you describe RNN? keep it simple.,Explanation,RNN,Beginner
+Practical application of RNN?,Example,RNN,Intermediate
+Summary of Neural Networks. keep it simple.,Revision,Neural Networks,Beginner
+Recap RNN. in depth detail.,Revision,RNN,Advanced
+I don't understand Reinforcement Learning.,Explanation,Reinforcement Learning,Intermediate
+Key points of Reinforcement Learning.,Revision,Reinforcement Learning,Intermediate
+Recap Optimization. keep it simple.,Revision,Optimization,Beginner
+Tell me about Transformers. keep it simple.,Explanation,Transformers,Beginner
+Show me a use case for Gradient Descent. keep it simple.,Example,Gradient Descent,Beginner
+Meaning of Backpropagation? in depth detail.,Explanation,Backpropagation,Advanced
+Code example for Backpropagation. keep it simple.,Example,Backpropagation,Beginner
+Revise Backpropagation quickly. keep it simple.,Revision,Backpropagation,Beginner
+Meaning of Neural Networks? in depth detail.,Explanation,Neural Networks,Advanced
+Meaning of Backpropagation? in depth detail.,Explanation,Backpropagation,Advanced
+Give me an example of Neural Networks.,Example,Neural Networks,Intermediate
+How does Optimization work?,Explanation,Optimization,Intermediate
+Recap Natural Language Processing.,Revision,Natural Language Processing,Intermediate
+Why does Optimization fail? in depth detail.,Doubt clarification,Optimization,Advanced
+How does Transformers work? keep it simple.,Explanation,Transformers,Beginner
+How does Neural Networks work?,Explanation,Neural Networks,Intermediate
+Real world example of Transformers. in depth detail.,Example,Transformers,Advanced
+Why does Computer Vision fail? keep it simple.,Doubt clarification,Computer Vision,Beginner
+Can you describe RNN? keep it simple.,Explanation,RNN,Beginner
+Practical application of Computer Vision?,Example,Computer Vision,Intermediate
+Recap Neural Networks.,Revision,Neural Networks,Intermediate
+Key points of CNN.,Revision,CNN,Intermediate
+Show me a use case for Optimization. in depth detail.,Example,Optimization,Advanced
+What is the difference between CNN and other method? keep it simple.,Doubt clarification,CNN,Beginner
+Real world example of CNN. in depth detail.,Example,CNN,Advanced
+How does Reinforcement Learning work?,Explanation,Reinforcement Learning,Intermediate
+Meaning of CNN? keep it simple.,Explanation,CNN,Beginner
+Why do we use Backpropagation? keep it simple.,Doubt clarification,Backpropagation,Beginner
+Why do we use Natural Language Processing? keep it simple.,Doubt clarification,Natural Language Processing,Beginner
+Why do we use Optimization? in depth detail.,Doubt clarification,Optimization,Advanced
+Confusion about Gradient Descent.,Doubt clarification,Gradient Descent,Intermediate
+Key points of Optimization.,Revision,Optimization,Intermediate
+Clarify Reinforcement Learning for me.,Doubt clarification,Reinforcement Learning,Intermediate
+Is Gradient Descent better than others? in depth detail.,Doubt clarification,Gradient Descent,Advanced
+Real world example of Optimization. in depth detail.,Example,Optimization,Advanced
+Practical application of Transformers?,Example,Transformers,Intermediate
+Revise Backpropagation quickly.,Revision,Backpropagation,Intermediate
+Recap Neural Networks. in depth detail.,Revision,Neural Networks,Advanced
+Can you describe Neural Networks?,Explanation,Neural Networks,Intermediate
+Give me an example of Natural Language Processing.,Example,Natural Language Processing,Intermediate
+Clarify Gradient Descent for me. keep it simple.,Doubt clarification,Gradient Descent,Beginner
+Recap Gradient Descent. in depth detail.,Revision,Gradient Descent,Advanced
+Explain different types of Transformers. in depth detail.,Explanation,Transformers,Advanced
+Demonstrate Optimization with an example. keep it simple.,Example,Optimization,Beginner
+Recap CNN. keep it simple.,Revision,CNN,Beginner
+Meaning of Computer Vision? keep it simple.,Explanation,Computer Vision,Beginner
+Tell me about RNN.,Explanation,RNN,Intermediate
+Why does Transformers fail? in depth detail.,Doubt clarification,Transformers,Advanced
+Real world example of Optimization.,Example,Optimization,Intermediate
+Code example for Optimization. in depth detail.,Example,Optimization,Advanced
+Recap Natural Language Processing. in depth detail.,Revision,Natural Language Processing,Advanced
+Show me a use case for RNN. in depth detail.,Example,RNN,Advanced
+Code example for CNN. keep it simple.,Example,CNN,Beginner
+Code example for Optimization. keep it simple.,Example,Optimization,Beginner
+Clarify Optimization for me. in depth detail.,Doubt clarification,Optimization,Advanced
+Define Transformers. in depth detail.,Explanation,Transformers,Advanced
+Review Computer Vision.,Revision,Computer Vision,Intermediate
+Practical application of Neural Networks? keep it simple.,Example,Neural Networks,Beginner
+Clarify CNN for me. keep it simple.,Doubt clarification,CNN,Beginner
+I don't understand Computer Vision.,Explanation,Computer Vision,Intermediate
+Real world example of Gradient Descent. keep it simple.,Example,Gradient Descent,Beginner
+Why does CNN fail? keep it simple.,Doubt clarification,CNN,Beginner
+Real world example of Computer Vision. in depth detail.,Example,Computer Vision,Advanced
+How does Optimization work? in depth detail.,Explanation,Optimization,Advanced
+Is Transformers better than others? keep it simple.,Doubt clarification,Transformers,Beginner
+Define CNN.,Explanation,CNN,Intermediate
+I am stuck on Backpropagation. in depth detail.,Doubt clarification,Backpropagation,Advanced
+Summary of Gradient Descent.,Revision,Gradient Descent,Intermediate
+Clarify Optimization for me. in depth detail.,Doubt clarification,Optimization,Advanced
+Can you describe Reinforcement Learning? keep it simple.,Explanation,Reinforcement Learning,Beginner
+Define RNN. keep it simple.,Explanation,RNN,Beginner
+Important concepts in Computer Vision. keep it simple.,Revision,Computer Vision,Beginner
+Show me a use case for Neural Networks.,Example,Neural Networks,Intermediate
+Practical application of RNN?,Example,RNN,Intermediate
+What is RNN?,Explanation,RNN,Intermediate
+Tell me about Transformers. keep it simple.,Explanation,Transformers,Beginner
+Summary of Neural Networks.,Revision,Neural Networks,Intermediate
+What is the difference between Transformers and other method?,Doubt clarification,Transformers,Intermediate
+Key points of Optimization. keep it simple.,Revision,Optimization,Beginner
+Tell me about Neural Networks.,Explanation,Neural Networks,Intermediate
+Revise CNN quickly. keep it simple.,Revision,CNN,Beginner
+Practical application of Optimization? keep it simple.,Example,Optimization,Beginner
+Confusion about RNN. keep it simple.,Doubt clarification,RNN,Beginner
+Real world example of Backpropagation. keep it simple.,Example,Backpropagation,Beginner
+Explain different types of RNN.,Explanation,RNN,Intermediate
+Show me a use case for RNN.,Example,RNN,Intermediate
+Is Natural Language Processing better than others? keep it simple.,Doubt clarification,Natural Language Processing,Beginner
+Give me an example of Natural Language Processing. keep it simple.,Example,Natural Language Processing,Beginner
+Define Neural Networks.,Explanation,Neural Networks,Intermediate
+I don't understand Reinforcement Learning. keep it simple.,Explanation,Reinforcement Learning,Beginner
+Can you describe Neural Networks? in depth detail.,Explanation,Neural Networks,Advanced
+Show me a use case for Transformers.,Example,Transformers,Intermediate
+I don't understand Neural Networks. in depth detail.,Explanation,Neural Networks,Advanced
+Confusion about Gradient Descent.,Doubt clarification,Gradient Descent,Intermediate
+Meaning of RNN? keep it simple.,Explanation,RNN,Beginner
+Explain different types of Transformers. keep it simple.,Explanation,Transformers,Beginner
+Tell me about Natural Language Processing.,Explanation,Natural Language Processing,Intermediate
+Revise Natural Language Processing quickly. keep it simple.,Revision,Natural Language Processing,Beginner
+Revise Reinforcement Learning quickly. in depth detail.,Revision,Reinforcement Learning,Advanced
+Summary of Natural Language Processing.,Revision,Natural Language Processing,Intermediate
+Real world example of Natural Language Processing. keep it simple.,Example,Natural Language Processing,Beginner
+Why does Reinforcement Learning fail?,Doubt clarification,Reinforcement Learning,Intermediate
+Explain different types of RNN. keep it simple.,Explanation,RNN,Beginner
+Give me an example of CNN.,Example,CNN,Intermediate
+Why does Backpropagation fail?,Doubt clarification,Backpropagation,Intermediate
+Revise RNN quickly.,Revision,RNN,Intermediate
+Real world example of CNN. keep it simple.,Example,CNN,Beginner
+Show me a use case for Transformers. keep it simple.,Example,Transformers,Beginner
+Real world example of Reinforcement Learning. in depth detail.,Example,Reinforcement Learning,Advanced
+Is Optimization better than others? keep it simple.,Doubt clarification,Optimization,Beginner
+Important concepts in Natural Language Processing. in depth detail.,Revision,Natural Language Processing,Advanced
+I am stuck on Optimization. keep it simple.,Doubt clarification,Optimization,Beginner
+Real world example of Neural Networks. keep it simple.,Example,Neural Networks,Beginner
+What is the difference between Reinforcement Learning and other method? in depth detail.,Doubt clarification,Reinforcement Learning,Advanced
+Important concepts in Natural Language Processing. keep it simple.,Revision,Natural Language Processing,Beginner
+Important concepts in Neural Networks. keep it simple.,Revision,Neural Networks,Beginner
+What is the difference between Natural Language Processing and other method? keep it simple.,Doubt clarification,Natural Language Processing,Beginner
+Revise Optimization quickly.,Revision,Optimization,Intermediate
+Revise CNN quickly. in depth detail.,Revision,CNN,Advanced
+Demonstrate Computer Vision with an example. in depth detail.,Example,Computer Vision,Advanced
+Demonstrate Gradient Descent with an example. in depth detail.,Example,Gradient Descent,Advanced
+Tell me about Computer Vision. keep it simple.,Explanation,Computer Vision,Beginner
+Clarify Natural Language Processing for me.,Doubt clarification,Natural Language Processing,Intermediate
+Why do we use Transformers? keep it simple.,Doubt clarification,Transformers,Beginner
+I don't understand CNN. in depth detail.,Explanation,CNN,Advanced
+Why do we use Computer Vision?,Doubt clarification,Computer Vision,Intermediate
+Can you describe RNN? keep it simple.,Explanation,RNN,Beginner
+I don't understand Backpropagation. keep it simple.,Explanation,Backpropagation,Beginner
+Can you describe RNN? keep it simple.,Explanation,RNN,Beginner
+Summary of Optimization. in depth detail.,Revision,Optimization,Advanced
+Confusion about Neural Networks.,Doubt clarification,Neural Networks,Intermediate
+Revise Optimization quickly. keep it simple.,Revision,Optimization,Beginner
+Explain different types of Natural Language Processing. keep it simple.,Explanation,Natural Language Processing,Beginner
+Practical application of Reinforcement Learning?,Example,Reinforcement Learning,Intermediate
+Show me a use case for RNN.,Example,RNN,Intermediate
+Summary of Neural Networks. in depth detail.,Revision,Neural Networks,Advanced
+I don't understand Backpropagation. in depth detail.,Explanation,Backpropagation,Advanced
+Give me an example of Computer Vision.,Example,Computer Vision,Intermediate
+Code example for Reinforcement Learning. in depth detail.,Example,Reinforcement Learning,Advanced
+Why do we use Backpropagation? in depth detail.,Doubt clarification,Backpropagation,Advanced
+Key points of Natural Language Processing. in depth detail.,Revision,Natural Language Processing,Advanced
+Clarify Computer Vision for me. keep it simple.,Doubt clarification,Computer Vision,Beginner
+Revise Optimization quickly. in depth detail.,Revision,Optimization,Advanced
+What is Backpropagation?,Explanation,Backpropagation,Intermediate
+I don't understand CNN. in depth detail.,Explanation,CNN,Advanced
+Important concepts in Computer Vision. keep it simple.,Revision,Computer Vision,Beginner
+Recap Optimization. in depth detail.,Revision,Optimization,Advanced
+Practical application of Computer Vision?,Example,Computer Vision,Intermediate
+Meaning of Computer Vision? in depth detail.,Explanation,Computer Vision,Advanced
+Why does Computer Vision fail? keep it simple.,Doubt clarification,Computer Vision,Beginner
+Real world example of Gradient Descent. in depth detail.,Example,Gradient Descent,Advanced
+Why do we use Gradient Descent? in depth detail.,Doubt clarification,Gradient Descent,Advanced
+Code example for RNN. keep it simple.,Example,RNN,Beginner
+Clarify RNN for me.,Doubt clarification,RNN,Intermediate
+Key points of Backpropagation. in depth detail.,Revision,Backpropagation,Advanced
+I don't understand RNN.,Explanation,RNN,Intermediate
+Show me a use case for CNN.,Example,CNN,Intermediate
+Clarify Transformers for me. in depth detail.,Doubt clarification,Transformers,Advanced
+Give me an example of Computer Vision.,Example,Computer Vision,Intermediate
+Clarify Reinforcement Learning for me. keep it simple.,Doubt clarification,Reinforcement Learning,Beginner
+Real world example of CNN. in depth detail.,Example,CNN,Advanced
+Give me an example of Optimization.,Example,Optimization,Intermediate
+Meaning of Natural Language Processing? in depth detail.,Explanation,Natural Language Processing,Advanced
+Confusion about Neural Networks. keep it simple.,Doubt clarification,Neural Networks,Beginner
+Practical application of Gradient Descent?,Example,Gradient Descent,Intermediate
+How does Gradient Descent work?,Explanation,Gradient Descent,Intermediate
+Key points of Neural Networks. in depth detail.,Revision,Neural Networks,Advanced
+What is CNN? in depth detail.,Explanation,CNN,Advanced
+Code example for Gradient Descent. keep it simple.,Example,Gradient Descent,Beginner
+Review Neural Networks. keep it simple.,Revision,Neural Networks,Beginner
+Confusion about Natural Language Processing.,Doubt clarification,Natural Language Processing,Intermediate
+Review RNN.,Revision,RNN,Intermediate
+Explain different types of Computer Vision.,Explanation,Computer Vision,Intermediate
+Confusion about Neural Networks. in depth detail.,Doubt clarification,Neural Networks,Advanced
+Summary of Computer Vision. in depth detail.,Revision,Computer Vision,Advanced
+How does Transformers work?,Explanation,Transformers,Intermediate
+Revise Neural Networks quickly. in depth detail.,Revision,Neural Networks,Advanced
+Important concepts in Optimization. in depth detail.,Revision,Optimization,Advanced
+Why do we use Natural Language Processing?,Doubt clarification,Natural Language Processing,Intermediate
+Give me an example of Reinforcement Learning.,Example,Reinforcement Learning,Intermediate
+Key points of Neural Networks. in depth detail.,Revision,Neural Networks,Advanced
+Clarify Computer Vision for me. keep it simple.,Doubt clarification,Computer Vision,Beginner
+Key points of Transformers. in depth detail.,Revision,Transformers,Advanced
+Give me an example of Optimization.,Example,Optimization,Intermediate
+Show me a use case for Optimization. in depth detail.,Example,Optimization,Advanced
+Explain different types of Optimization.,Explanation,Optimization,Intermediate
+I don't understand Reinforcement Learning. in depth detail.,Explanation,Reinforcement Learning,Advanced
+Why does CNN fail? keep it simple.,Doubt clarification,CNN,Beginner
+Why does Transformers fail? in depth detail.,Doubt clarification,Transformers,Advanced
+Code example for Optimization. in depth detail.,Example,Optimization,Advanced
+Show me a use case for Gradient Descent. keep it simple.,Example,Gradient Descent,Beginner
+Show me a use case for Computer Vision.,Example,Computer Vision,Intermediate
+Important concepts in Backpropagation. keep it simple.,Revision,Backpropagation,Beginner
+Recap Transformers. in depth detail.,Revision,Transformers,Advanced
+Recap Gradient Descent.,Revision,Gradient Descent,Intermediate
+Explain different types of CNN.,Explanation,CNN,Intermediate
+Code example for Neural Networks. keep it simple.,Example,Neural Networks,Beginner
+Confusion about Neural Networks. keep it simple.,Doubt clarification,Neural Networks,Beginner
+Clarify Computer Vision for me. in depth detail.,Doubt clarification,Computer Vision,Advanced
+Confusion about Natural Language Processing.,Doubt clarification,Natural Language Processing,Intermediate
+I am stuck on RNN.,Doubt clarification,RNN,Intermediate
+Key points of Backpropagation. keep it simple.,Revision,Backpropagation,Beginner
+Show me a use case for Gradient Descent. keep it simple.,Example,Gradient Descent,Beginner
+Confusion about Neural Networks.,Doubt clarification,Neural Networks,Intermediate
+How does RNN work?,Explanation,RNN,Intermediate
+Tell me about Transformers.,Explanation,Transformers,Intermediate
+Demonstrate Backpropagation with an example.,Example,Backpropagation,Intermediate
+Practical application of Transformers? in depth detail.,Example,Transformers,Advanced
+Demonstrate CNN with an example. in depth detail.,Example,CNN,Advanced
+Tell me about Computer Vision. in depth detail.,Explanation,Computer Vision,Advanced
+Confusion about CNN. in depth detail.,Doubt clarification,CNN,Advanced
+Why do we use Natural Language Processing? keep it simple.,Doubt clarification,Natural Language Processing,Beginner
+Important concepts in RNN.,Revision,RNN,Intermediate
+Show me a use case for Reinforcement Learning. keep it simple.,Example,Reinforcement Learning,Beginner
+Key points of RNN.,Revision,RNN,Intermediate
+Practical application of Backpropagation? in depth detail.,Example,Backpropagation,Advanced
+Can you describe Computer Vision?,Explanation,Computer Vision,Intermediate
+What is Natural Language Processing? keep it simple.,Explanation,Natural Language Processing,Beginner
+Is CNN better than others? keep it simple.,Doubt clarification,CNN,Beginner
+Review Natural Language Processing.,Revision,Natural Language Processing,Intermediate
+Real world example of Optimization. in depth detail.,Example,Optimization,Advanced
+Review Optimization. keep it simple.,Revision,Optimization,Beginner
+Clarify Transformers for me. in depth detail.,Doubt clarification,Transformers,Advanced
+Demonstrate Optimization with an example. keep it simple.,Example,Optimization,Beginner
+Why do we use RNN? in depth detail.,Doubt clarification,RNN,Advanced
+Meaning of Transformers? in depth detail.,Explanation,Transformers,Advanced
+I don't understand Neural Networks.,Explanation,Neural Networks,Intermediate
+Explain different types of Computer Vision. keep it simple.,Explanation,Computer Vision,Beginner
+I am stuck on CNN. in depth detail.,Doubt clarification,CNN,Advanced
+Clarify Reinforcement Learning for me. in depth detail.,Doubt clarification,Reinforcement Learning,Advanced
+Demonstrate CNN with an example. in depth detail.,Example,CNN,Advanced
+Recap Optimization.,Revision,Optimization,Intermediate
+Tell me about Neural Networks.,Explanation,Neural Networks,Intermediate
+Can you describe Transformers? keep it simple.,Explanation,Transformers,Beginner
+Demonstrate RNN with an example.,Example,RNN,Intermediate
+Tell me about Gradient Descent. in depth detail.,Explanation,Gradient Descent,Advanced
+Important concepts in Gradient Descent.,Revision,Gradient Descent,Intermediate
+What is Neural Networks? in depth detail.,Explanation,Neural Networks,Advanced
+Practical application of CNN? in depth detail.,Example,CNN,Advanced
+What is Gradient Descent? in depth detail.,Explanation,Gradient Descent,Advanced
+Review Backpropagation. in depth detail.,Revision,Backpropagation,Advanced
+Is Neural Networks better than others? in depth detail.,Doubt clarification,Neural Networks,Advanced
+Show me a use case for Optimization. in depth detail.,Example,Optimization,Advanced
+Confusion about RNN. in depth detail.,Doubt clarification,RNN,Advanced
+Practical application of RNN? keep it simple.,Example,RNN,Beginner
+Real world example of RNN.,Example,RNN,Intermediate
+Demonstrate Computer Vision with an example. keep it simple.,Example,Computer Vision,Beginner
+Give me an example of Computer Vision.,Example,Computer Vision,Intermediate
+Why do we use Natural Language Processing? keep it simple.,Doubt clarification,Natural Language Processing,Beginner
+Tell me about Natural Language Processing. keep it simple.,Explanation,Natural Language Processing,Beginner
+Key points of RNN.,Revision,RNN,Intermediate
+Recap Transformers.,Revision,Transformers,Intermediate
+Important concepts in Computer Vision. keep it simple.,Revision,Computer Vision,Beginner
+Why does Transformers fail? in depth detail.,Doubt clarification,Transformers,Advanced
+Demonstrate CNN with an example. keep it simple.,Example,CNN,Beginner
+Real world example of Reinforcement Learning.,Example,Reinforcement Learning,Intermediate
+Code example for Neural Networks. in depth detail.,Example,Neural Networks,Advanced
+What is Transformers? keep it simple.,Explanation,Transformers,Beginner
+Clarify Reinforcement Learning for me.,Doubt clarification,Reinforcement Learning,Intermediate
+Meaning of Natural Language Processing? keep it simple.,Explanation,Natural Language Processing,Beginner
+What is Natural Language Processing? in depth detail.,Explanation,Natural Language Processing,Advanced
+Revise Natural Language Processing quickly. keep it simple.,Revision,Natural Language Processing,Beginner
+Clarify Natural Language Processing for me.,Doubt clarification,Natural Language Processing,Intermediate
+Practical application of CNN? keep it simple.,Example,CNN,Beginner
+Key points of Optimization. keep it simple.,Revision,Optimization,Beginner
+Review Transformers. keep it simple.,Revision,Transformers,Beginner
+How does RNN work?,Explanation,RNN,Intermediate
+Tell me about Natural Language Processing. keep it simple.,Explanation,Natural Language Processing,Beginner
+How does Reinforcement Learning work? in depth detail.,Explanation,Reinforcement Learning,Advanced
+What is the difference between RNN and other method?,Doubt clarification,RNN,Intermediate
+Confusion about Reinforcement Learning. keep it simple.,Doubt clarification,Reinforcement Learning,Beginner
+Important concepts in CNN. in depth detail.,Revision,CNN,Advanced
+Why does Reinforcement Learning fail? keep it simple.,Doubt clarification,Reinforcement Learning,Beginner
+I don't understand Natural Language Processing. in depth detail.,Explanation,Natural Language Processing,Advanced
+Give me an example of RNN.,Example,RNN,Intermediate
+Practical application of Natural Language Processing? in depth detail.,Example,Natural Language Processing,Advanced
+Confusion about CNN. keep it simple.,Doubt clarification,CNN,Beginner
+Recap Backpropagation.,Revision,Backpropagation,Intermediate
+Practical application of Optimization? in depth detail.,Example,Optimization,Advanced
+Clarify Neural Networks for me. keep it simple.,Doubt clarification,Neural Networks,Beginner
+Demonstrate Natural Language Processing with an example. in depth detail.,Example,Natural Language Processing,Advanced
+Why do we use Gradient Descent? keep it simple.,Doubt clarification,Gradient Descent,Beginner
+I am stuck on Reinforcement Learning.,Doubt clarification,Reinforcement Learning,Intermediate
+What is the difference between Computer Vision and other method? keep it simple.,Doubt clarification,Computer Vision,Beginner
+Is CNN better than others? keep it simple.,Doubt clarification,CNN,Beginner
+I am stuck on CNN. keep it simple.,Doubt clarification,CNN,Beginner
+Clarify Gradient Descent for me.,Doubt clarification,Gradient Descent,Intermediate
+Confusion about Backpropagation. in depth detail.,Doubt clarification,Backpropagation,Advanced
+Give me an example of Reinforcement Learning. in depth detail.,Example,Reinforcement Learning,Advanced
+Explain different types of Computer Vision.,Explanation,Computer Vision,Intermediate
+What is the difference between Reinforcement Learning and other method? in depth detail.,Doubt clarification,Reinforcement Learning,Advanced
+Code example for Transformers. keep it simple.,Example,Transformers,Beginner
+Can you describe Optimization? keep it simple.,Explanation,Optimization,Beginner
+Key points of Reinforcement Learning. in depth detail.,Revision,Reinforcement Learning,Advanced
+Important concepts in Natural Language Processing. keep it simple.,Revision,Natural Language Processing,Beginner
+Is CNN better than others? in depth detail.,Doubt clarification,CNN,Advanced
+Key points of Natural Language Processing. in depth detail.,Revision,Natural Language Processing,Advanced
+Give me an example of RNN.,Example,RNN,Intermediate
+I am stuck on Neural Networks. keep it simple.,Doubt clarification,Neural Networks,Beginner
+Recap Transformers. in depth detail.,Revision,Transformers,Advanced
+Summary of Transformers.,Revision,Transformers,Intermediate
+Key points of Backpropagation. in depth detail.,Revision,Backpropagation,Advanced
+What is the difference between Optimization and other method?,Doubt clarification,Optimization,Intermediate
+Confusion about Gradient Descent. keep it simple.,Doubt clarification,Gradient Descent,Beginner
+Confusion about Gradient Descent.,Doubt clarification,Gradient Descent,Intermediate
+I don't understand Optimization.,Explanation,Optimization,Intermediate
+Real world example of Reinforcement Learning.,Example,Reinforcement Learning,Intermediate
+Show me a use case for Backpropagation. in depth detail.,Example,Backpropagation,Advanced
+Revise Gradient Descent quickly. keep it simple.,Revision,Gradient Descent,Beginner
+Why do we use RNN? keep it simple.,Doubt clarification,RNN,Beginner
+Give me an example of Backpropagation. in depth detail.,Example,Backpropagation,Advanced
+I don't understand Reinforcement Learning.,Explanation,Reinforcement Learning,Intermediate
+I don't understand CNN. keep it simple.,Explanation,CNN,Beginner
+What is Reinforcement Learning? in depth detail.,Explanation,Reinforcement Learning,Advanced
+Tell me about Optimization.,Explanation,Optimization,Intermediate
+Demonstrate Backpropagation with an example. keep it simple.,Example,Backpropagation,Beginner
+Summary of RNN.,Revision,RNN,Intermediate
+Why do we use Backpropagation? in depth detail.,Doubt clarification,Backpropagation,Advanced
+Review Reinforcement Learning. keep it simple.,Revision,Reinforcement Learning,Beginner
+Key points of Optimization. keep it simple.,Revision,Optimization,Beginner
+Is Backpropagation better than others? keep it simple.,Doubt clarification,Backpropagation,Beginner
+Demonstrate Reinforcement Learning with an example. in depth detail.,Example,Reinforcement Learning,Advanced
+Recap Neural Networks. keep it simple.,Revision,Neural Networks,Beginner
+Key points of Backpropagation.,Revision,Backpropagation,Intermediate
+What is the difference between Gradient Descent and other method? in depth detail.,Doubt clarification,Gradient Descent,Advanced
+Meaning of Gradient Descent? in depth detail.,Explanation,Gradient Descent,Advanced
+Key points of Transformers.,Revision,Transformers,Intermediate
+Clarify Reinforcement Learning for me.,Doubt clarification,Reinforcement Learning,Intermediate
+Meaning of Computer Vision? keep it simple.,Explanation,Computer Vision,Beginner
+Practical application of RNN?,Example,RNN,Intermediate
+Can you describe Backpropagation? in depth detail.,Explanation,Backpropagation,Advanced
+Recap CNN. keep it simple.,Revision,CNN,Beginner
+Real world example of Optimization.,Example,Optimization,Intermediate
+Why do we use Neural Networks? in depth detail.,Doubt clarification,Neural Networks,Advanced
+Practical application of Natural Language Processing? keep it simple.,Example,Natural Language Processing,Beginner
+Clarify Neural Networks for me.,Doubt clarification,Neural Networks,Intermediate
+What is the difference between Neural Networks and other method?,Doubt clarification,Neural Networks,Intermediate
+Demonstrate Gradient Descent with an example.,Example,Gradient Descent,Intermediate
+What is Natural Language Processing?,Explanation,Natural Language Processing,Intermediate
+Give me an example of Neural Networks. in depth detail.,Example,Neural Networks,Advanced
+How does Natural Language Processing work? keep it simple.,Explanation,Natural Language Processing,Beginner
+Show me a use case for CNN.,Example,CNN,Intermediate
+What is the difference between Backpropagation and other method? keep it simple.,Doubt clarification,Backpropagation,Beginner
+Recap Optimization.,Revision,Optimization,Intermediate
+Practical application of Computer Vision?,Example,Computer Vision,Intermediate
+I am stuck on Gradient Descent. keep it simple.,Doubt clarification,Gradient Descent,Beginner
+Real world example of Gradient Descent. keep it simple.,Example,Gradient Descent,Beginner
+Clarify Neural Networks for me. keep it simple.,Doubt clarification,Neural Networks,Beginner
+Real world example of Computer Vision.,Example,Computer Vision,Intermediate
+Code example for Gradient Descent.,Example,Gradient Descent,Intermediate
+Can you describe Natural Language Processing? in depth detail.,Explanation,Natural Language Processing,Advanced
+Why does Neural Networks fail? keep it simple.,Doubt clarification,Neural Networks,Beginner
+Review RNN. in depth detail.,Revision,RNN,Advanced
+Give me an example of CNN. in depth detail.,Example,CNN,Advanced
+Review RNN. keep it simple.,Revision,RNN,Beginner
+Define Transformers. in depth detail.,Explanation,Transformers,Advanced
+What is the difference between Optimization and other method?,Doubt clarification,Optimization,Intermediate
+Why does Reinforcement Learning fail? keep it simple.,Doubt clarification,Reinforcement Learning,Beginner
+Can you describe CNN?,Explanation,CNN,Intermediate
+What is Natural Language Processing? in depth detail.,Explanation,Natural Language Processing,Advanced
+Real world example of RNN.,Example,RNN,Intermediate
+I don't understand Neural Networks. in depth detail.,Explanation,Neural Networks,Advanced
+Real world example of Transformers. in depth detail.,Example,Transformers,Advanced
+Code example for Computer Vision. keep it simple.,Example,Computer Vision,Beginner
+Clarify Natural Language Processing for me. in depth detail.,Doubt clarification,Natural Language Processing,Advanced
+Demonstrate RNN with an example.,Example,RNN,Intermediate
+Important concepts in Optimization. in depth detail.,Revision,Optimization,Advanced
+How does RNN work? in depth detail.,Explanation,RNN,Advanced
+Meaning of Reinforcement Learning?,Explanation,Reinforcement Learning,Intermediate
+How does Computer Vision work? keep it simple.,Explanation,Computer Vision,Beginner
+What is the difference between Computer Vision and other method? in depth detail.,Doubt clarification,Computer Vision,Advanced
+Can you describe Reinforcement Learning?,Explanation,Reinforcement Learning,Intermediate
+Show me a use case for RNN.,Example,RNN,Intermediate
+Practical application of Optimization?,Example,Optimization,Intermediate
+Confusion about CNN. keep it simple.,Doubt clarification,CNN,Beginner
+Summary of Optimization. keep it simple.,Revision,Optimization,Beginner
+I am stuck on Natural Language Processing. in depth detail.,Doubt clarification,Natural Language Processing,Advanced
+Review Natural Language Processing. keep it simple.,Revision,Natural Language Processing,Beginner
+What is Natural Language Processing? in depth detail.,Explanation,Natural Language Processing,Advanced
+Why does Transformers fail? keep it simple.,Doubt clarification,Transformers,Beginner
+How does Neural Networks work? keep it simple.,Explanation,Neural Networks,Beginner
+I am stuck on CNN.,Doubt clarification,CNN,Intermediate
+I don't understand Backpropagation. keep it simple.,Explanation,Backpropagation,Beginner
+Real world example of Backpropagation. keep it simple.,Example,Backpropagation,Beginner
+Review Transformers. keep it simple.,Revision,Transformers,Beginner
+Review Natural Language Processing. keep it simple.,Revision,Natural Language Processing,Beginner
+What is Natural Language Processing? in depth detail.,Explanation,Natural Language Processing,Advanced
+Define Computer Vision.,Explanation,Computer Vision,Intermediate
+Is Optimization better than others? keep it simple.,Doubt clarification,Optimization,Beginner
+Show me a use case for Neural Networks.,Example,Neural Networks,Intermediate
+Show me a use case for Natural Language Processing.,Example,Natural Language Processing,Intermediate
+Demonstrate Gradient Descent with an example.,Example,Gradient Descent,Intermediate
+I am stuck on RNN.,Doubt clarification,RNN,Intermediate
+Why do we use Reinforcement Learning?,Doubt clarification,Reinforcement Learning,Intermediate
+Review CNN. in depth detail.,Revision,CNN,Advanced
+Important concepts in Transformers.,Revision,Transformers,Intermediate
+Real world example of Natural Language Processing. keep it simple.,Example,Natural Language Processing,Beginner
+What is Reinforcement Learning? in depth detail.,Explanation,Reinforcement Learning,Advanced
+Practical application of Natural Language Processing? keep it simple.,Example,Natural Language Processing,Beginner
+Define Natural Language Processing. keep it simple.,Explanation,Natural Language Processing,Beginner
+Demonstrate Backpropagation with an example.,Example,Backpropagation,Intermediate
+Define CNN.,Explanation,CNN,Intermediate
+Key points of CNN. keep it simple.,Revision,CNN,Beginner
+Explain different types of RNN. keep it simple.,Explanation,RNN,Beginner
+Real world example of RNN.,Example,RNN,Intermediate
+I am stuck on Computer Vision.,Doubt clarification,Computer Vision,Intermediate
+Show me a use case for Transformers. keep it simple.,Example,Transformers,Beginner
+Practical application of Reinforcement Learning?,Example,Reinforcement Learning,Intermediate
+Meaning of Backpropagation? keep it simple.,Explanation,Backpropagation,Beginner
+How does Transformers work? in depth detail.,Explanation,Transformers,Advanced
+Revise Optimization quickly. in depth detail.,Revision,Optimization,Advanced
+Code example for Reinforcement Learning. in depth detail.,Example,Reinforcement Learning,Advanced
+Review Backpropagation.,Revision,Backpropagation,Intermediate
+Important concepts in Computer Vision. keep it simple.,Revision,Computer Vision,Beginner
+I don't understand Natural Language Processing. keep it simple.,Explanation,Natural Language Processing,Beginner
+Summary of CNN. keep it simple.,Revision,CNN,Beginner
+I am stuck on Reinforcement Learning. in depth detail.,Doubt clarification,Reinforcement Learning,Advanced
+Define Gradient Descent.,Explanation,Gradient Descent,Intermediate
+Tell me about CNN.,Explanation,CNN,Intermediate
+Review Neural Networks.,Revision,Neural Networks,Intermediate
+How does Transformers work? keep it simple.,Explanation,Transformers,Beginner
+What is the difference between Natural Language Processing and other method?,Doubt clarification,Natural Language Processing,Intermediate
+Show me a use case for CNN. in depth detail.,Example,CNN,Advanced
+Can you describe CNN?,Explanation,CNN,Intermediate
+Important concepts in Neural Networks.,Revision,Neural Networks,Intermediate
+Demonstrate RNN with an example.,Example,RNN,Intermediate
+Why does Optimization fail?,Doubt clarification,Optimization,Intermediate
+Give me an example of Backpropagation.,Example,Backpropagation,Intermediate
+I am stuck on RNN.,Doubt clarification,RNN,Intermediate
+Code example for Natural Language Processing. keep it simple.,Example,Natural Language Processing,Beginner
+What is the difference between Reinforcement Learning and other method? keep it simple.,Doubt clarification,Reinforcement Learning,Beginner
+Real world example of Backpropagation.,Example,Backpropagation,Intermediate
+Is Gradient Descent better than others? in depth detail.,Doubt clarification,Gradient Descent,Advanced
+Can you describe Neural Networks? keep it simple.,Explanation,Neural Networks,Beginner
+I don't understand Computer Vision. in depth detail.,Explanation,Computer Vision,Advanced
+What is the difference between RNN and other method? in depth detail.,Doubt clarification,RNN,Advanced
+Give me an example of Reinforcement Learning. keep it simple.,Example,Reinforcement Learning,Beginner
+Give me an example of Backpropagation. keep it simple.,Example,Backpropagation,Beginner
+I am stuck on RNN. keep it simple.,Doubt clarification,RNN,Beginner
+Can you describe CNN? keep it simple.,Explanation,CNN,Beginner
+Is Neural Networks better than others? keep it simple.,Doubt clarification,Neural Networks,Beginner
+What is Reinforcement Learning?,Explanation,Reinforcement Learning,Intermediate
+Give me an example of Gradient Descent. keep it simple.,Example,Gradient Descent,Beginner
+Why does Transformers fail? keep it simple.,Doubt clarification,Transformers,Beginner
+I don't understand Natural Language Processing. keep it simple.,Explanation,Natural Language Processing,Beginner
+How does RNN work? in depth detail.,Explanation,RNN,Advanced
+I am stuck on Backpropagation.,Doubt clarification,Backpropagation,Intermediate
+Key points of RNN. keep it simple.,Revision,RNN,Beginner
+How does Natural Language Processing work? in depth detail.,Explanation,Natural Language Processing,Advanced
+What is Backpropagation?,Explanation,Backpropagation,Intermediate
+Meaning of CNN?,Explanation,CNN,Intermediate
+Confusion about Reinforcement Learning. keep it simple.,Doubt clarification,Reinforcement Learning,Beginner
+Summary of RNN. in depth detail.,Revision,RNN,Advanced
+Review CNN. keep it simple.,Revision,CNN,Beginner
+I don't understand Neural Networks. keep it simple.,Explanation,Neural Networks,Beginner
+Explain different types of Backpropagation.,Explanation,Backpropagation,Intermediate
+Tell me about Natural Language Processing. in depth detail.,Explanation,Natural Language Processing,Advanced
+Meaning of CNN? in depth detail.,Explanation,CNN,Advanced
+How does Reinforcement Learning work? in depth detail.,Explanation,Reinforcement Learning,Advanced
+Can you describe Transformers? keep it simple.,Explanation,Transformers,Beginner
+Real world example of Computer Vision.,Example,Computer Vision,Intermediate
+Why do we use Neural Networks? keep it simple.,Doubt clarification,Neural Networks,Beginner
+How does Gradient Descent work? in depth detail.,Explanation,Gradient Descent,Advanced
+Give me an example of Natural Language Processing.,Example,Natural Language Processing,Intermediate
+Code example for Transformers. in depth detail.,Example,Transformers,Advanced
+Show me a use case for CNN.,Example,CNN,Intermediate
+What is RNN? keep it simple.,Explanation,RNN,Beginner
+How does Reinforcement Learning work? keep it simple.,Explanation,Reinforcement Learning,Beginner
+Key points of Backpropagation.,Revision,Backpropagation,Intermediate
+Practical application of Neural Networks?,Example,Neural Networks,Intermediate
+Recap Natural Language Processing.,Revision,Natural Language Processing,Intermediate
+Review Transformers. in depth detail.,Revision,Transformers,Advanced
+I am stuck on Computer Vision. keep it simple.,Doubt clarification,Computer Vision,Beginner
+Code example for CNN. keep it simple.,Example,CNN,Beginner
+Give me an example of Gradient Descent.,Example,Gradient Descent,Intermediate
+Why does CNN fail?,Doubt clarification,CNN,Intermediate
+Revise Neural Networks quickly. in depth detail.,Revision,Neural Networks,Advanced
+I don't understand Reinforcement Learning. keep it simple.,Explanation,Reinforcement Learning,Beginner
+Real world example of Computer Vision. keep it simple.,Example,Computer Vision,Beginner
+Recap Optimization. in depth detail.,Revision,Optimization,Advanced
+Recap Reinforcement Learning.,Revision,Reinforcement Learning,Intermediate
+Why do we use Natural Language Processing? in depth detail.,Doubt clarification,Natural Language Processing,Advanced
+Review CNN.,Revision,CNN,Intermediate
+Confusion about Gradient Descent.,Doubt clarification,Gradient Descent,Intermediate
+Define Neural Networks. in depth detail.,Explanation,Neural Networks,Advanced
+Show me a use case for Transformers.,Example,Transformers,Intermediate
+Define Reinforcement Learning.,Explanation,Reinforcement Learning,Intermediate
+Why does CNN fail? keep it simple.,Doubt clarification,CNN,Beginner
+I don't understand Natural Language Processing. in depth detail.,Explanation,Natural Language Processing,Advanced
+Important concepts in RNN.,Revision,RNN,Intermediate
+How does Gradient Descent work?,Explanation,Gradient Descent,Intermediate
+Tell me about Transformers.,Explanation,Transformers,Intermediate
+Important concepts in Reinforcement Learning. keep it simple.,Revision,Reinforcement Learning,Beginner
+Is Backpropagation better than others? in depth detail.,Doubt clarification,Backpropagation,Advanced
+Why does CNN fail? in depth detail.,Doubt clarification,CNN,Advanced
+How does Computer Vision work?,Explanation,Computer Vision,Intermediate
+Recap Natural Language Processing. in depth detail.,Revision,Natural Language Processing,Advanced
+Show me a use case for Neural Networks. in depth detail.,Example,Neural Networks,Advanced
+Review RNN. keep it simple.,Revision,RNN,Beginner
+Is Reinforcement Learning better than others? keep it simple.,Doubt clarification,Reinforcement Learning,Beginner
+Show me a use case for Backpropagation. keep it simple.,Example,Backpropagation,Beginner
+Code example for Optimization. in depth detail.,Example,Optimization,Advanced
+Important concepts in Reinforcement Learning.,Revision,Reinforcement Learning,Intermediate
+Why does Transformers fail? keep it simple.,Doubt clarification,Transformers,Beginner
+Meaning of Natural Language Processing? in depth detail.,Explanation,Natural Language Processing,Advanced
+Review Optimization. keep it simple.,Revision,Optimization,Beginner
+Clarify Transformers for me. in depth detail.,Doubt clarification,Transformers,Advanced
+Show me a use case for Transformers.,Example,Transformers,Intermediate
+Key points of Transformers. in depth detail.,Revision,Transformers,Advanced
+Can you describe Reinforcement Learning? keep it simple.,Explanation,Reinforcement Learning,Beginner
+Practical application of Gradient Descent?,Example,Gradient Descent,Intermediate
+Why do we use Gradient Descent? keep it simple.,Doubt clarification,Gradient Descent,Beginner
+I don't understand Backpropagation. keep it simple.,Explanation,Backpropagation,Beginner
+Review Optimization. in depth detail.,Revision,Optimization,Advanced
+What is the difference between Backpropagation and other method? in depth detail.,Doubt clarification,Backpropagation,Advanced
+Show me a use case for Optimization. keep it simple.,Example,Optimization,Beginner
+Meaning of Gradient Descent? in depth detail.,Explanation,Gradient Descent,Advanced
+Revise Backpropagation quickly.,Revision,Backpropagation,Intermediate
+What is the difference between Backpropagation and other method?,Doubt clarification,Backpropagation,Intermediate
+Review Optimization. in depth detail.,Revision,Optimization,Advanced
+Review RNN.,Revision,RNN,Intermediate
+Important concepts in CNN.,Revision,CNN,Intermediate
+Is Reinforcement Learning better than others? in depth detail.,Doubt clarification,Reinforcement Learning,Advanced
+Tell me about RNN. keep it simple.,Explanation,RNN,Beginner
+Revise Transformers quickly. keep it simple.,Revision,Transformers,Beginner
+Key points of Gradient Descent. in depth detail.,Revision,Gradient Descent,Advanced
+Confusion about Backpropagation. keep it simple.,Doubt clarification,Backpropagation,Beginner
+Code example for Natural Language Processing.,Example,Natural Language Processing,Intermediate
+What is RNN? keep it simple.,Explanation,RNN,Beginner
+Recap Transformers. keep it simple.,Revision,Transformers,Beginner
+Clarify CNN for me. in depth detail.,Doubt clarification,CNN,Advanced
+Summary of Gradient Descent. keep it simple.,Revision,Gradient Descent,Beginner
+What is Natural Language Processing? in depth detail.,Explanation,Natural Language Processing,Advanced
+Practical application of Neural Networks? keep it simple.,Example,Neural Networks,Beginner
+Tell me about Natural Language Processing.,Explanation,Natural Language Processing,Intermediate
+I don't understand Natural Language Processing. keep it simple.,Explanation,Natural Language Processing,Beginner
+Is Transformers better than others? keep it simple.,Doubt clarification,Transformers,Beginner
+Summary of Reinforcement Learning.,Revision,Reinforcement Learning,Intermediate
+Real world example of Transformers. in depth detail.,Example,Transformers,Advanced
+Is RNN better than others?,Doubt clarification,RNN,Intermediate
+I am stuck on RNN. in depth detail.,Doubt clarification,RNN,Advanced
+Give me an example of Transformers.,Example,Transformers,Intermediate
+What is the difference between Optimization and other method?,Doubt clarification,Optimization,Intermediate
+Code example for Optimization. keep it simple.,Example,Optimization,Beginner
+Give me an example of Transformers. in depth detail.,Example,Transformers,Advanced
+Key points of Computer Vision. in depth detail.,Revision,Computer Vision,Advanced
+What is the difference between Neural Networks and other method? keep it simple.,Doubt clarification,Neural Networks,Beginner
+Show me a use case for Transformers.,Example,Transformers,Intermediate
+What is the difference between Neural Networks and other method? keep it simple.,Doubt clarification,Neural Networks,Beginner
+Summary of Transformers. keep it simple.,Revision,Transformers,Beginner
+Show me a use case for Natural Language Processing.,Example,Natural Language Processing,Intermediate
+Confusion about Natural Language Processing. keep it simple.,Doubt clarification,Natural Language Processing,Beginner
+Give me an example of Natural Language Processing. keep it simple.,Example,Natural Language Processing,Beginner
+Show me a use case for Neural Networks.,Example,Neural Networks,Intermediate
+I am stuck on CNN. in depth detail.,Doubt clarification,CNN,Advanced
+Key points of Optimization.,Revision,Optimization,Intermediate
+Why does Transformers fail? in depth detail.,Doubt clarification,Transformers,Advanced
+Demonstrate Backpropagation with an example. in depth detail.,Example,Backpropagation,Advanced
+Give me an example of Optimization. in depth detail.,Example,Optimization,Advanced
+Revise Transformers quickly. in depth detail.,Revision,Transformers,Advanced
+I don't understand Backpropagation. keep it simple.,Explanation,Backpropagation,Beginner
+Why do we use Backpropagation?,Doubt clarification,Backpropagation,Intermediate
+What is Backpropagation?,Explanation,Backpropagation,Intermediate
+I am stuck on CNN. keep it simple.,Doubt clarification,CNN,Beginner
+How does RNN work? in depth detail.,Explanation,RNN,Advanced
+Recap Optimization. in depth detail.,Revision,Optimization,Advanced
+Why do we use Gradient Descent? keep it simple.,Doubt clarification,Gradient Descent,Beginner
+Summary of CNN.,Revision,CNN,Intermediate
+Tell me about Optimization. in depth detail.,Explanation,Optimization,Advanced
+Revise Transformers quickly. in depth detail.,Revision,Transformers,Advanced
+Review Optimization. keep it simple.,Revision,Optimization,Beginner
+Revise Neural Networks quickly. in depth detail.,Revision,Neural Networks,Advanced
+Why do we use Transformers?,Doubt clarification,Transformers,Intermediate
+Explain different types of Reinforcement Learning. keep it simple.,Explanation,Reinforcement Learning,Beginner
+Explain different types of Natural Language Processing.,Explanation,Natural Language Processing,Intermediate
+Revise Reinforcement Learning quickly.,Revision,Reinforcement Learning,Intermediate
+I am stuck on CNN. in depth detail.,Doubt clarification,CNN,Advanced
+Confusion about CNN. in depth detail.,Doubt clarification,CNN,Advanced
+How does Backpropagation work? keep it simple.,Explanation,Backpropagation,Beginner
+Clarify Reinforcement Learning for me. in depth detail.,Doubt clarification,Reinforcement Learning,Advanced
+Summary of Natural Language Processing.,Revision,Natural Language Processing,Intermediate
+Give me an example of Natural Language Processing. keep it simple.,Example,Natural Language Processing,Beginner
+Summary of CNN. keep it simple.,Revision,CNN,Beginner
+Why does Backpropagation fail? in depth detail.,Doubt clarification,Backpropagation,Advanced
+Give me an example of Computer Vision.,Example,Computer Vision,Intermediate
+Key points of Reinforcement Learning.,Revision,Reinforcement Learning,Intermediate
+I am stuck on Optimization. keep it simple.,Doubt clarification,Optimization,Beginner
+Real world example of RNN.,Example,RNN,Intermediate
+Practical application of Neural Networks? in depth detail.,Example,Neural Networks,Advanced
+Practical application of Transformers?,Example,Transformers,Intermediate
+Show me a use case for Transformers. in depth detail.,Example,Transformers,Advanced
+Clarify Reinforcement Learning for me.,Doubt clarification,Reinforcement Learning,Intermediate
+Key points of CNN. keep it simple.,Revision,CNN,Beginner
+Summary of Neural Networks.,Revision,Neural Networks,Intermediate
+Why does Computer Vision fail?,Doubt clarification,Computer Vision,Intermediate
+Is Neural Networks better than others?,Doubt clarification,Neural Networks,Intermediate
+Key points of Transformers. in depth detail.,Revision,Transformers,Advanced
+Define Backpropagation. in depth detail.,Explanation,Backpropagation,Advanced
+Recap CNN.,Revision,CNN,Intermediate
+Explain different types of Computer Vision. in depth detail.,Explanation,Computer Vision,Advanced
+Give me an example of Gradient Descent. keep it simple.,Example,Gradient Descent,Beginner
+Why does Natural Language Processing fail? in depth detail.,Doubt clarification,Natural Language Processing,Advanced
+Demonstrate CNN with an example.,Example,CNN,Intermediate
+Define Neural Networks.,Explanation,Neural Networks,Intermediate
+Recap RNN. in depth detail.,Revision,RNN,Advanced
+What is the difference between Reinforcement Learning and other method? keep it simple.,Doubt clarification,Reinforcement Learning,Beginner
+Recap Natural Language Processing. keep it simple.,Revision,Natural Language Processing,Beginner
+Practical application of RNN? keep it simple.,Example,RNN,Beginner
+Demonstrate Gradient Descent with an example. keep it simple.,Example,Gradient Descent,Beginner
+Recap Natural Language Processing.,Revision,Natural Language Processing,Intermediate
+Recap Computer Vision. keep it simple.,Revision,Computer Vision,Beginner
+Why do we use RNN? keep it simple.,Doubt clarification,RNN,Beginner
+Important concepts in Transformers. in depth detail.,Revision,Transformers,Advanced
+Why does Gradient Descent fail? keep it simple.,Doubt clarification,Gradient Descent,Beginner
+Demonstrate Natural Language Processing with an example.,Example,Natural Language Processing,Intermediate
+Can you describe RNN? in depth detail.,Explanation,RNN,Advanced
+Important concepts in CNN. in depth detail.,Revision,CNN,Advanced
+Important concepts in Optimization. keep it simple.,Revision,Optimization,Beginner
+Revise Computer Vision quickly.,Revision,Computer Vision,Intermediate
+I don't understand Backpropagation. keep it simple.,Explanation,Backpropagation,Beginner
+Give me an example of Gradient Descent.,Example,Gradient Descent,Intermediate
+Revise Gradient Descent quickly. in depth detail.,Revision,Gradient Descent,Advanced
+Real world example of Transformers. keep it simple.,Example,Transformers,Beginner
+Define Optimization. keep it simple.,Explanation,Optimization,Beginner
+I am stuck on Gradient Descent. keep it simple.,Doubt clarification,Gradient Descent,Beginner
+Define Gradient Descent. in depth detail.,Explanation,Gradient Descent,Advanced
+How does Natural Language Processing work? keep it simple.,Explanation,Natural Language Processing,Beginner
+Clarify RNN for me. in depth detail.,Doubt clarification,RNN,Advanced
+Real world example of Reinforcement Learning.,Example,Reinforcement Learning,Intermediate
+Confusion about Natural Language Processing.,Doubt clarification,Natural Language Processing,Intermediate
+Revise Optimization quickly. in depth detail.,Revision,Optimization,Advanced
+Review Gradient Descent.,Revision,Gradient Descent,Intermediate
+Can you describe Natural Language Processing?,Explanation,Natural Language Processing,Intermediate
+Real world example of Optimization. keep it simple.,Example,Optimization,Beginner
+Review Optimization.,Revision,Optimization,Intermediate
+Show me a use case for Backpropagation.,Example,Backpropagation,Intermediate
+Code example for Gradient Descent. keep it simple.,Example,Gradient Descent,Beginner
+Why do we use RNN? in depth detail.,Doubt clarification,RNN,Advanced
+Confusion about Neural Networks. in depth detail.,Doubt clarification,Neural Networks,Advanced
+Code example for RNN. in depth detail.,Example,RNN,Advanced
+Show me a use case for Gradient Descent.,Example,Gradient Descent,Intermediate
+Recap CNN. keep it simple.,Revision,CNN,Beginner
+Review Transformers. keep it simple.,Revision,Transformers,Beginner
+What is Computer Vision? in depth detail.,Explanation,Computer Vision,Advanced
+What is the difference between Backpropagation and other method? in depth detail.,Doubt clarification,Backpropagation,Advanced
+Revise CNN quickly. keep it simple.,Revision,CNN,Beginner
+Code example for RNN. keep it simple.,Example,RNN,Beginner
+What is the difference between Computer Vision and other method? in depth detail.,Doubt clarification,Computer Vision,Advanced
+Recap Reinforcement Learning.,Revision,Reinforcement Learning,Intermediate
+Why does Transformers fail? in depth detail.,Doubt clarification,Transformers,Advanced
+Why does Backpropagation fail? in depth detail.,Doubt clarification,Backpropagation,Advanced

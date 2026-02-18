@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Teaching Assistant</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+    <div class="top-bar">
+        <div class="logo-area">
+            <div class="logo-icon">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M22 10v6M2 10l10-5 10 5-10 5z" />
+                    <path d="M6 12v5c3 3 9 3 12 0v-5" />
+                </svg>
+            </div>
+            <div class="logo-text">
+                <h1>AI Teaching Assistant</h1>
+                <p>NLP Query Understanding &middot; Adaptive Learning Paths</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="main-container">
+        <!-- Tabs -->
+        <div class="tabs">
+            <button class="tab-btn active" onclick="switchTab('query')">Query Understanding</button>
+            <button class="tab-btn" onclick="switchTab('learning')">Learning Path</button>
+        </div>
+
+        <!-- content: Query Understanding -->
+        <div id="query-section" class="content-section">
+            <div class="section-header">
+                <div class="icon-box">🧠</div>
+                <div class="header-text">
+                    <h2>Q1: Student Query Understanding</h2>
+                    <p>NLP + LLM-powered intent classification</p>
+                </div>
+            </div>
+
+            <div class="example-area">
+                <p class="label">TRY AN EXAMPLE</p>
+                <div class="pills-container">
+                    <button class="pill" onclick="fillQuery(this)">I don't understand backpropagation.</button>
+                    <button class="pill" onclick="fillQuery(this)">Can you show me an example of gradient
+                        descent?</button>
+                    <button class="pill" onclick="fillQuery(this)">I'm confused about the difference between precision
+                        and recall.</button>
+                    <button class="pill" onclick="fillQuery(this)">I need to revise convolutional neural
+                        networks.</button>
+                    <button class="pill" onclick="fillQuery(this)">What is the vanishing gradient problem?</button>
+                </div>
+            </div>
+
+            <div class="input-area">
+                <textarea id="queryInput"
+                    placeholder="Type a student question... e.g., 'I don't understand backpropagation.'"></textarea>
+            </div>
+
+            <div class="action-area">
+                <button class="primary-btn" id="analyzeBtn" onclick="analyzeQuery()">
+                    <span class="btn-icon">✨</span> Classify Query
+                </button>
+            </div>
+
+            <!-- Query Result Area -->
+            <div id="queryResult" class="hidden">
+                <div class="cards-grid">
+                    <!-- Intent Card -->
+                    <div class="info-card">
+                        <span class="card-label">INTENT</span>
+                        <div class="badge orange" id="resIntent">Explanation</div>
+                        <div class="progress-bar">
+                            <div class="fill orange-fill" id="resIntentBar" style="width: 0%"></div>
+                        </div>
+                        <span class="confidence-text" id="resIntentConf">0% confidence</span>
+                    </div>
+
+                    <!-- Topic Card -->
+                    <div class="info-card">
+                        <span class="card-label">TOPIC</span>
+                        <div class="topic-text" id="resTopic">Neural Networks</div>
+                        <div class="progress-bar">
+                            <div class="fill teal-fill" id="resTopicBar" style="width: 0%"></div>
+                        </div>
+                        <span class="confidence-text" id="resTopicConf">0% confidence</span>
+                    </div>
+
+                    <!-- Difficulty Card -->
+                    <div class="info-card">
+                        <span class="card-label">DIFFICULTY</span>
+                        <div class="badge green" id="resDifficulty">Beginner</div>
+                        <div class="progress-bar">
+                            <div class="fill green-fill" id="resDifficultyBar" style="width: 0%"></div>
+                        </div>
+                        <span class="confidence-text" id="resDifficultyConf">0% confidence</span>
+                    </div>
+                </div>
+
+                <div class="keywords-section">
+                    <span class="card-label">EXTRACTED KEYWORDS</span>
+                    <div class="keyword-pills" id="resKeywords"></div>
+                </div>
+
+                <div class="suggestion-section">
+                    <span class="card-label">SUGGESTED RESPONSE APPROACH</span>
+                    <p id="resSuggestion" class="suggestion-text">Answer the query directly.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- content: Learning Path -->
+        <div id="learning-section" class="content-section hidden">
+            <div class="section-header">
+                <div class="icon-box">📈</div>
+                <div class="header-text">
+                    <h2>Q2: Adaptive Learning Path</h2>
+                    <p>Personalized recommendations based on performance history</p>
+                </div>
+            </div>
+
+            <div class="form-container">
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>Current Topic</label>
+                        <select id="topicInput">
+                            <option>Optimization</option>
+                            <option>Neural Networks</option>
+                            <option>NLP</option>
+                            <option>Computer Vision</option>
+                            <option>RL</option>
+                            <option>Backpropagation</option>
+                            <option>Gradient Descent</option>
+                            <option>Transformers</option>
+                            <option>CNN</option>
+                            <option>RNN</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Current Difficulty</label>
+                        <select id="difficultyInput">
+                            <option>Beginner</option>
+                            <option>Intermediate</option>
+                            <option>Advanced</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>Quiz Score (0-100)</label>
+                        <input type="number" id="scoreInput" value="75">
+                    </div>
+                    <div class="form-group">
+                        <label>Attempts</label>
+                        <input type="number" id="attemptsInput" value="1">
+                    </div>
+                    <div class="form-group">
+                        <label>Time Spent (min)</label>
+                        <input type="number" id="timeInput" value="15">
+                    </div>
+                </div>
+
+                <div class="action-area">
+                    <button class="primary-btn" onclick="getRecommendation()">
+                        <span class="btn-icon">🚀</span> Generate Recommendation
+                    </button>
+                </div>
+            </div>
+
+            <!-- Adaptive Result Area -->
+            <div id="adaptiveResult" class="hidden">
+                <div class="cards-grid">
+                    <!-- Next Topic Card -->
+                    <div class="info-card">
+                        <span class="card-label">NEXT TOPIC</span>
+                        <div class="topic-text" id="recTopic">Neural Networks</div>
+                        <div class="progress-bar">
+                            <div class="fill teal-fill" id="recTopicBar" style="width: 0%"></div>
+                        </div>
+                        <span class="confidence-text" id="recTopicConf">0% confidence</span>
+                    </div>
+
+                    <!-- Action Card -->
+                    <div class="info-card">
+                        <span class="card-label">ACTION</span>
+                        <div class="badge orange" id="recAction">Continue</div>
+                        <div class="progress-bar">
+                            <div class="fill orange-fill" id="recActionBar" style="width: 0%"></div>
+                        </div>
+                        <span class="confidence-text" id="recActionConf">0% confidence</span>
+                    </div>
+
+                    <!-- Difficulty Adjustment Card -->
+                    <div class="info-card">
+                        <span class="card-label">DIFFICULTY ADJUSTMENT</span>
+                        <div class="badge green" id="recDiff">Same</div>
+                        <div class="progress-bar">
+                            <div class="fill green-fill" id="recDiffBar" style="width: 0%"></div>
+                        </div>
+                        <span class="confidence-text" id="recDiffConf">0% confidence</span>
+                    </div>
+                </div>
+
+                <div class="suggestion-section">
+                    <span class="card-label">SYSTEM REASONING</span>
+                    <p id="recReasoning" class="suggestion-text">Analyzing student performance...</p>
+                </div>
+
+                <!-- Interactivity -->
+                <div class="action-area" style="margin-top: 1.5rem; text-align: center;">
+                    <button class="pill" id="applyBtn"
+                        style="background: var(--primary-hover); color: white; border: none;">
+                        ✅ Apply Recommendation
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+
+</html>
